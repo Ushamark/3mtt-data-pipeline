@@ -1,0 +1,1151 @@
+fellow_id,first_name,last_name,state,alc_code,cohort_number,track,enrollment_date,completion_status,certification_status,geopolitical_zone
+3MTT-F00805,Adaeze,Ojo,Ogun,ALC-014,3,Software Development,2023-01-01,complete,certified,North-West
+3MTT-F00226,Fatima,Sule,Bayelsa,ALC-021,3,Product Management,2023-01-01,complete,certified,South-South
+3MTT-F00286,Oluwafemi,Aliyu,Imo,ALC-035,4,Cybersecurity,2023-01-01,incomplete,not certified,South-East
+3MTT-F00400,Fatima,Ibrahim,Kaduna,ALC-022,3,Software Development,2023-01-01,incomplete,not certified,North-West
+3MTT-F00892,Babatunde,Okonkwo,Abuja,ALC-025,3,UI/UX Design,2023-01-01,incomplete,not certified,North-Central
+3MTT-F00705,Chinwe,Sule,Delta,ALC-023,3,Cybersecurity,2023-01-01,incomplete,not certified,South-South
+3MTT-F01068,Adaeze,Musa,Gombe,ALC-026,3,AI/ML,2023-01-01,incomplete,not certified,North-East
+3MTT-F00421,Fatima,Ike,Cross River,ALC-027,4,Product Management,2023-01-01,complete,certified,South-South
+3MTT-F00329,Amina,Eze,Gombe,ALC-026,4,Cybersecurity,2024-01-15,incomplete,not certified,North-East
+3MTT-F01053,Amina,Ike,Abuja,ALC-025,4,Product Management,2024-01-15,complete,certified,North-Central
+3MTT-F00396,Fatima,Nwachukwu,Borno,ALC-030,4,DevOps,2024-01-16,complete,certified,North-East
+3MTT-F00308,Babatunde,Aliyu,Delta,ALC-023,4,Software Development,2024-01-17,incomplete,not certified,South-South
+3MTT-F00753,Chiamaka,Ojo,Cross River,ALC-010,3,Data Analysis,2024-01-17,complete,certified,South-South
+3MTT-F00873,Amina,Adeyemi,Lagos,ALC-016,3,UI/UX Design,2024-01-17,complete,certified,South-West
+3MTT-F00546,Zainab,Bello,Adamawa,ALC-001,4,DevOps,2024-01-18,incomplete,not certified,North-East
+3MTT-F00959,Kayode,Ibrahim,Ekiti,ALC-046,3,Cloud Computing,2024-01-18,complete,not certified,South-West
+3MTT-F00954,Segun,Afolabi,Abuja,ALC-025,3,DevOps,2024-01-19,complete,certified,North-Central
+3MTT-F00111,Obinna,Lawal,Katsina,ALC-039,4,Cybersecurity,2024-01-19,incomplete,not certified,North-West
+3MTT-F00420,Temitope,Afolabi,Rivers,ALC-009,3,Cloud Computing,2024-01-19,complete,certified,North-Central
+3MTT-F00347,Dele,Ike,Adamawa,ALC-001,3,Cloud Computing,2024-01-20,complete,not certified,North-East
+3MTT-F00693,Grace,Sule,Sokoto,ALC-047,3,Product Management,2024-01-20,complete,certified,North-West
+3MTT-F01110,Amina,Hassan,Niger,ALC-034,4,Cybersecurity,2024-01-20,incomplete,not certified,North-Central
+3MTT-F01027,Oluwafemi,Hassan,Akwa Ibom,ALC-042,4,Cloud Computing,2024-01-21,complete,certified,South-West
+3MTT-F00472,Suleiman,Bello,Ondo,ALC-020,4,Data Analysis,2024-01-21,complete,certified,South-West
+3MTT-F00445,Ekene,Hassan,Anambra,ALC-028,3,DevOps,2024-01-21,complete,not certified,South-East
+3MTT-F00731,Temitope,Ibrahim,Kogi,ALC-UNKNOWN,3,DevOps,2024-01-22,complete,certified,
+3MTT-F00704,Bola,Musa,Kebbi,ALC-024,4,Cybersecurity,2024-01-22,incomplete,not certified,North-West
+3MTT-F00504,Nnamdi,Okonkwo,Katsina,ALC-039,3,Product Management,2024-01-24,incomplete,not certified,North-West
+3MTT-F00063,Chukwuemeka,Garba,Katsina,ALC-039,4,UI/UX Design,2024-01-24,incomplete,not certified,North-West
+3MTT-F00591,Bola,Okafor,Abuja,ALC-025,3,AI/ML,2024-01-24,complete,certified,North-Central
+3MTT-F00091,Fatima,Aliyu,Benue,ALC-002,3,Data Analysis,2024-01-25,incomplete,not certified,North-Central
+3MTT-F00827,Kayode,Adegoke,Kebbi,ALC-003,4,Product Management,2024-01-26,incomplete,not certified,North-West
+3MTT-F00358,Segun,Okonkwo,Borno,ALC-030,4,AI/ML,2024-01-27,complete,certified,North-East
+3MTT-F00658,Maryam,Ojo,Yobe,ALC-019,3,UI/UX Design,2024-01-27,incomplete,not certified,North-East
+3MTT-F00050,Bola,Yakubu,Kaduna,ALC-015,3,Software Development,2024-01-27,complete,not certified,North-West
+3MTT-F00756,Obinna,Yakubu,Zamfara,ALC-011,4,Cybersecurity,2024-01-27,incomplete,not certified,North-Central
+3MTT-F00486,Yusuf,Garba,Ondo,ALC-042,4,DevOps,2024-01-27,incomplete,not certified,South-West
+3MTT-F00376,Yusuf,Aliyu,Imo,ALC-044,3,Data Analysis,2024-01-28,complete,certified,South-East
+3MTT-F01062,Umar,Afolabi,Edo,ALC-041,3,UI/UX Design,2024-01-28,complete,not certified,South-South
+3MTT-F00799,Maryam,Okafor,Taraba,ALC-046,4,Cybersecurity,2024-01-29,incomplete,not certified,South-West
+3MTT-F00661,Babatunde,Anyanwu,Anambra,ALC-032,4,AI/ML,2024-01-29,incomplete,not certified,South-East
+3MTT-F00142,Temitope,Anyanwu,Osun,ALC-018,4,AI/ML,2024-01-29,complete,certified,South-West
+3MTT-F00108,Temitope,Garba,Delta,ALC-023,4,AI/ML,2024-01-29,complete,certified,South-South
+3MTT-F01024,Ifeanyi,Eze,Niger,ALC-009,4,Software Development,2024-01-29,incomplete,not certified,North-Central
+3MTT-F00367,Obinna,Abubakar,Zamfara,ALC-017,3,UI/UX Design,2024-01-30,incomplete,not certified,North-Central
+3MTT-F00416,Obinna,Musa,Lagos,ALC-016,3,DevOps,2024-01-30,complete,certified,South-West
+3MTT-F00913,Segun,Ike,Ogun,ALC-051,4,Software Development,2024-01-30,complete,certified,North-Central
+3MTT-F00132,Kayode,Effiong,Ogun,ALC-020,4,Software Development,2024-01-30,complete,certified,South-West
+3MTT-F00255,Amina,Chukwu,Kebbi,ALC-003,3,Data Analysis,2024-01-31,incomplete,not certified,North-West
+3MTT-F00578,Suleiman,Bello,Ekiti,ALC-024,4,Cloud Computing,2024-01-31,complete,not certified,North-West
+3MTT-F01002,Suleiman,Anyanwu,Abia,ALC-038,3,Product Management,2024-01-31,incomplete,not certified,South-East
+3MTT-F00636,Umar,Effiong,Gombe,ALC-026,3,UI/UX Design,2024-01-31,complete,not certified,North-East
+3MTT-F00928,Zainab,Garba,Jigawa,ALC-031,4,Software Development,2024-01-31,incomplete,not certified,North-West
+3MTT-F00847,Fatima,Bello,Enugu,ALC-048,3,UI/UX Design,2024-02-01,incomplete,not certified,South-East
+3MTT-F00714,Bola,Hassan,Sokoto,ALC-054,3,UI/UX Design,2024-02-01,complete,certified,North-West
+3MTT-F00392,Maryam,Adeyemi,Gombe,ALC-026,3,AI/ML,2024-02-01,complete,certified,North-East
+3MTT-F00534,Dele,Ike,Ogun,ALC-019,3,UI/UX Design,2024-02-01,incomplete,not certified,North-East
+3MTT-F00194,Nnamdi,Garba,Benue,ALC-UNKNOWN,4,AI/ML,2024-02-01,complete,certified,
+3MTT-F00603,Bola,Okonkwo,Delta,ALC-023,3,Cybersecurity,2024-02-01,incomplete,not certified,South-South
+3MTT-F00990,Obinna,Okafor,Rivers,ALC-018,4,Product Management,2024-02-02,complete,not certified,South-West
+3MTT-F00897,Ekene,Ojo,Ekiti,ALC-048,4,DevOps,2024-02-02,complete,certified,South-East
+3MTT-F00434,Adaeze,Anyanwu,Rivers,ALC-025,3,UI/UX Design,2024-02-03,complete,certified,North-Central
+3MTT-F00697,Maryam,Adegoke,Bayelsa,ALC-021,3,DevOps,2024-02-03,complete,certified,South-South
+3MTT-F00605,Umar,Garba,Osun,ALC-018,3,UI/UX Design,2024-02-03,complete,certified,South-West
+3MTT-F00408,Bola,Chukwu,Imo,ALC-044,4,Product Management,2024-02-03,complete,certified,South-East
+3MTT-F00510,Ifeanyi,Ibrahim,Rivers,ALC-030,3,Cloud Computing,2024-02-04,incomplete,not certified,North-East
+3MTT-F00479,Suleiman,Musa,Lagos,ALC-016,4,Cloud Computing,2024-02-04,complete,certified,South-West
+3MTT-F00871,Zainab,Sule,Cross River,ALC-010,4,DevOps,2024-02-04,complete,not certified,South-South
+3MTT-F01122,Ifeanyi,Bello,Adamawa,ALC-UNKNOWN,4,Cybersecurity,2024-02-04,complete,certified,
+3MTT-F00588,Temitope,Abubakar,Ebonyi,ALC-037,4,DevOps,2024-02-04,complete,certified,South-East
+3MTT-F00729,Nnamdi,Hassan,Anambra,ALC-028,4,DevOps,2024-02-05,complete,certified,South-East
+3MTT-F00187,Kayode,Abubakar,Yobe,ALC-019,3,DevOps,2024-02-05,complete,certified,North-East
+3MTT-F00495,Zainab,Abubakar,Abuja,ALC-025,3,Software Development,2024-02-05,complete,certified,North-Central
+3MTT-F00360,Dele,Effiong,Borno,ALC-030,3,AI/ML,2024-02-06,incomplete,not certified,North-East
+3MTT-F01139,Segun,Aliyu,Ondo,ALC-042,3,AI/ML,2024-02-06,complete,certified,South-West
+3MTT-F00802,Yusuf,Ibrahim,Rivers,ALC-008,4,Software Development,2024-02-06,complete,certified,South-West
+3MTT-F00523,Amina,Okafor,Ogun,ALC-027,4,DevOps,2024-02-06,incomplete,not certified,South-South
+3MTT-F00465,Fatima,Adegoke,Anambra,ALC-028,4,Software Development,2024-02-07,incomplete,not certified,South-East
+3MTT-F00734,Maryam,Aliyu,Abia,ALC-054,3,Cybersecurity,2024-02-07,complete,certified,North-West
+3MTT-F00328,Obinna,Okonkwo,Oyo,ALC-049,4,Software Development,2024-02-08,complete,certified,South-West
+3MTT-F00273,Amina,Nwosu,Ogun,ALC-003,3,UI/UX Design,2024-02-08,incomplete,not certified,North-West
+3MTT-F00440,Adaeze,Bello,Ondo,ALC-042,3,Software Development,2024-02-08,complete,certified,South-West
+3MTT-F00418,Babatunde,Okafor,Sokoto,ALC-047,4,UI/UX Design,2024-02-09,complete,certified,North-West
+3MTT-F00447,Chukwuemeka,Lawal,Sokoto,ALC-054,4,AI/ML,2024-02-09,complete,certified,North-West
+3MTT-F00595,Oluwafemi,Okonkwo,Ekiti,ALC-034,4,UI/UX Design,2024-02-09,complete,certified,North-Central
+3MTT-F00215,Nnamdi,Hassan,Jigawa,ALC-031,3,DevOps,2024-02-09,complete,certified,North-West
+3MTT-F00217,Zainab,Lawal,Enugu,ALC-048,4,Software Development,2024-02-10,complete,certified,South-East
+3MTT-F01146,Babatunde,Abubakar,Kebbi,ALC-003,4,Software Development,2024-02-10,complete,certified,North-West
+3MTT-F00647,Yusuf,Badmus,Gombe,ALC-UNKNOWN,3,Cloud Computing,2024-02-10,complete,certified,
+3MTT-F00864,Halima,Chukwu,Nasarawa,ALC-051,3,Data Analysis,2024-02-10,complete,certified,North-Central
+3MTT-F00870,Umar,Musa,Kwara,ALC-013,3,DevOps,2024-02-11,complete,certified,North-Central
+3MTT-F00747,Suleiman,Eze,Nasarawa,ALC-051,4,DevOps,2024-02-11,incomplete,not certified,North-Central
+3MTT-F01082,Segun,Lawal,Plateau,ALC-007,4,DevOps,2024-02-11,incomplete,not certified,North-Central
+3MTT-F00618,Suleiman,Lawal,Borno,ALC-030,3,Data Analysis,2024-02-11,complete,certified,North-East
+3MTT-F00350,Ekene,Musa,Ekiti,ALC-030,4,AI/ML,2024-02-12,incomplete,not certified,North-East
+3MTT-F00248,Dele,Effiong,Ekiti,ALC-006,4,DevOps,2024-02-12,incomplete,not certified,North-East
+3MTT-F00651,Chukwuemeka,Hassan,Kwara,ALC-012,3,Cloud Computing,2024-02-12,complete,certified,North-Central
+3MTT-F01148,Halima,Okafor,Bayelsa,ALC-021,4,Cloud Computing,2024-02-13,complete,certified,South-South
+3MTT-F00193,Halima,Ike,Ebonyi,ALC-038,4,Cybersecurity,2024-02-13,complete,certified,South-East
+3MTT-F00976,Zainab,Bello,Ogun,ALC-038,3,Product Management,2024-02-13,complete,not certified,South-East
+3MTT-F00655,Nnamdi,Ike,Ogun,ALC-014,3,Software Development,2024-02-13,complete,certified,North-West
+3MTT-F01061,Ifeanyi,Ibrahim,Enugu,ALC-048,4,Data Analysis,2024-02-13,incomplete,not certified,South-East
+3MTT-F00424,Bola,Olawale,Yobe,ALC-UNKNOWN,3,AI/ML,2024-02-13,incomplete,not certified,
+3MTT-F00432,Yusuf,Yakubu,Anambra,ALC-028,4,Cybersecurity,2024-02-13,complete,certified,South-East
+3MTT-F00382,Suleiman,Yakubu,Anambra,ALC-028,4,Software Development,2024-02-14,complete,certified,South-East
+3MTT-F00749,Obinna,Badmus,Anambra,ALC-028,3,Product Management,2024-02-14,complete,certified,South-East
+3MTT-F01032,Babatunde,Nwosu,Cross River,ALC-010,3,Product Management,2024-02-14,complete,certified,South-South
+3MTT-F00126,Maryam,Badmus,Ondo,ALC-042,4,Software Development,2024-02-15,complete,certified,South-West
+3MTT-F00243,Nneka,Olawale,Katsina,ALC-039,3,Cloud Computing,2024-02-15,complete,certified,North-West
+3MTT-F01132,Temitope,Ibrahim,Anambra,ALC-032,4,Cloud Computing,2024-02-15,complete,certified,South-East
+3MTT-F00020,Maryam,Okafor,Edo,ALC-041,3,UI/UX Design,2024-02-15,complete,certified,South-South
+3MTT-F01091,Segun,Nwachukwu,Benue,ALC-012,4,Software Development,2024-02-16,complete,certified,North-Central
+3MTT-F00905,Chinwe,Ibrahim,Taraba,ALC-053,3,UI/UX Design,2024-02-16,complete,certified,North-West
+3MTT-F01010,Bola,Okafor,Abuja,ALC-025,4,AI/ML,2024-02-16,incomplete,not certified,North-Central
+3MTT-F01003,Maryam,Anyanwu,Imo,ALC-035,4,DevOps,2024-02-16,complete,certified,South-East
+3MTT-F00016,Chinwe,Adegoke,Adamawa,ALC-001,3,UI/UX Design,2024-02-16,complete,certified,North-East
+3MTT-F00326,Kayode,Eze,Niger,ALC-045,4,Product Management,2024-02-16,incomplete,not certified,North-Central
+3MTT-F00664,Umar,Okonkwo,Jigawa,ALC-031,4,AI/ML,2024-02-17,incomplete,not certified,North-West
+3MTT-F00436,Temitope,Lawal,Imo,ALC-044,3,DevOps,2024-02-17,incomplete,not certified,South-East
+3MTT-F00199,Temitope,Musa,Niger,ALC-034,4,Cybersecurity,2024-02-17,complete,certified,North-Central
+3MTT-F00988,Nnamdi,Yakubu,Jigawa,ALC-014,4,AI/ML,2024-02-17,complete,certified,North-West
+3MTT-F00985,Suleiman,Eze,Ogun,ALC-052,4,UI/UX Design,2024-02-17,complete,not certified,North-Central
+3MTT-F00816,Nneka,Olawale,Plateau,ALC-036,3,AI/ML,2024-02-18,complete,certified,North-Central
+3MTT-F00622,Fatima,Garba,Kwara,ALC-030,3,Software Development,2024-02-18,complete,certified,North-East
+3MTT-F00498,Ekene,Sule,Osun,ALC-018,4,AI/ML,2024-02-18,complete,certified,South-West
+3MTT-F00069,Amina,Sule,Ondo,ALC-020,4,Software Development,2024-02-19,complete,certified,South-West
+3MTT-F01005,Kayode,Lawal,Benue,ALC-002,3,UI/UX Design,2024-02-19,incomplete,not certified,North-Central
+3MTT-F00730,Nnamdi,Okonkwo,Ondo,ALC-008,3,DevOps,2024-02-20,complete,certified,South-West
+3MTT-F00002,Grace,Okafor,Ebonyi,ALC-037,4,Cybersecurity,2024-02-20,complete,certified,South-East
+3MTT-F00133,Ifeanyi,Chukwu,Ekiti,ALC-046,4,Cybersecurity,2024-02-21,incomplete,not certified,South-West
+3MTT-F00481,Ifeanyi,Ike,Ekiti,ALC-051,4,UI/UX Design,2024-02-21,incomplete,not certified,North-Central
+3MTT-F00393,Oluwafemi,Anyanwu,Gombe,ALC-026,3,DevOps,2024-02-22,incomplete,not certified,North-East
+3MTT-F00543,Ifeanyi,Garba,Niger,ALC-045,4,UI/UX Design,2024-02-22,complete,certified,North-Central
+3MTT-F00246,Maryam,Bello,Ogun,ALC-046,4,UI/UX Design,2024-02-23,incomplete,not certified,South-West
+3MTT-F00955,Fatima,Badmus,Akwa Ibom,ALC-035,3,Software Development,2024-02-23,complete,not certified,South-East
+3MTT-F00817,Dele,Yakubu,Borno,ALC-030,3,DevOps,2024-02-23,incomplete,not certified,North-East
+3MTT-F00608,Yusuf,Anyanwu,Zamfara,ALC-003,4,AI/ML,2024-02-24,incomplete,not certified,North-West
+3MTT-F00178,Suleiman,Abubakar,Rivers,ALC-029,3,Product Management,2024-02-24,complete,certified,North-West
+3MTT-F00090,Grace,Anyanwu,Lagos,ALC-016,4,Cloud Computing,2024-02-25,complete,not certified,South-West
+3MTT-F00174,Umar,Badmus,Ogun,ALC-008,4,Cybersecurity,2024-02-26,incomplete,not certified,South-West
+3MTT-F00947,Dele,Eze,Oyo,ALC-049,4,Cybersecurity,2024-02-26,incomplete,not certified,South-West
+3MTT-F00854,Segun,Yakubu,Yobe,ALC-050,4,Cybersecurity,2024-02-26,complete,certified,North-East
+3MTT-F00061,Obinna,Musa,Akwa Ibom,ALC-038,3,Data Analysis,2024-02-26,complete,certified,South-East
+3MTT-F00369,Umar,Adeyemi,Yobe,ALC-050,4,Data Analysis,2024-02-27,incomplete,not certified,North-East
+3MTT-F00706,Bola,Nwosu,Ogun,ALC-003,4,DevOps,2024-02-27,incomplete,not certified,North-West
+3MTT-F00311,Chinwe,Lawal,Taraba,ALC-053,4,Software Development,2024-02-27,complete,certified,North-West
+3MTT-F00613,Segun,Nwosu,Osun,ALC-046,4,Cybersecurity,2024-02-27,complete,certified,South-West
+3MTT-F00825,Oluwafemi,Lawal,Kano,ALC-004,4,Software Development,2024-02-27,incomplete,not certified,North-West
+3MTT-F00290,Zainab,Okafor,Sokoto,ALC-054,4,Cybersecurity,2024-02-27,incomplete,not certified,North-West
+3MTT-F01072,Ekene,Eze,Katsina,ALC-039,4,Software Development,2024-02-28,complete,certified,North-West
+3MTT-F00666,Obinna,Lawal,Kogi,ALC-040,4,UI/UX Design,2024-02-28,complete,certified,North-Central
+3MTT-F01093,Yusuf,Bello,Bauchi,ALC-006,3,Software Development,2024-02-28,incomplete,not certified,North-East
+3MTT-F00405,Ifeanyi,Aliyu,Abia,ALC-047,3,DevOps,2024-02-28,complete,certified,North-West
+3MTT-F00288,Zainab,Ike,Kebbi,ALC-003,3,Product Management,2024-02-28,complete,certified,North-West
+3MTT-F00569,Umar,Nwosu,Rivers,ALC-035,3,Cloud Computing,2024-02-29,complete,certified,South-East
+3MTT-F00428,Temitope,Effiong,Osun,ALC-UNKNOWN,4,AI/ML,2024-02-29,complete,certified,
+3MTT-F00739,Halima,Effiong,Taraba,ALC-046,4,Data Analysis,2024-02-29,complete,certified,South-West
+3MTT-F00433,Amina,Olawale,Oyo,ALC-049,4,Product Management,2024-02-29,complete,certified,South-West
+3MTT-F00857,Babatunde,Aliyu,Benue,ALC-002,3,Cybersecurity,2024-02-29,incomplete,not certified,North-Central
+3MTT-F00585,Ifeanyi,Yakubu,Kano,ALC-004,4,Data Analysis,2024-03-01,incomplete,not certified,North-West
+3MTT-F00214,Dele,Badmus,Zamfara,ALC-032,3,UI/UX Design,2024-03-01,incomplete,not certified,South-East
+3MTT-F01070,Ifeanyi,Okafor,Ondo,ALC-042,4,Software Development,2024-03-01,incomplete,not certified,South-West
+3MTT-F00577,Ifeanyi,Effiong,Delta,ALC-023,3,Cloud Computing,2024-03-01,complete,certified,South-South
+3MTT-F00531,Chiamaka,Chukwu,Gombe,ALC-026,3,Product Management,2024-03-01,incomplete,not certified,North-East
+3MTT-F00460,Bola,Nwachukwu,Bayelsa,ALC-021,3,Cloud Computing,2024-03-01,incomplete,not certified,South-South
+3MTT-F01049,Kayode,Olawale,Gombe,ALC-026,3,Software Development,2024-03-02,incomplete,not certified,North-East
+3MTT-F00606,Babatunde,Ojo,Kaduna,ALC-022,4,Software Development,2024-03-02,complete,certified,North-West
+3MTT-F00653,Ifeanyi,Garba,Edo,ALC-041,3,Product Management,2024-03-02,incomplete,not certified,South-South
+3MTT-F00330,Halima,Hassan,Zamfara,ALC-011,4,Cybersecurity,2024-03-02,complete,certified,North-Central
+3MTT-F00022,Chinwe,Musa,Kwara,ALC-042,3,Product Management,2024-03-02,incomplete,not certified,South-West
+3MTT-F00049,Yusuf,Okafor,Niger,ALC-034,4,Cloud Computing,2024-03-02,incomplete,not certified,North-Central
+3MTT-F01089,Nneka,Olawale,Oyo,ALC-049,4,DevOps,2024-03-03,incomplete,not certified,South-West
+3MTT-F01013,Chinwe,Musa,Edo,ALC-UNKNOWN,3,Cloud Computing,2024-03-03,complete,not certified,
+3MTT-F00448,Chukwuemeka,Okonkwo,Abia,ALC-028,3,Cybersecurity,2024-03-03,incomplete,not certified,South-East
+3MTT-F00966,Adaeze,Adegoke,Anambra,ALC-032,3,AI/ML,2024-03-04,complete,certified,South-East
+3MTT-F00138,Halima,Nwosu,Niger,ALC-009,4,Data Analysis,2024-03-04,incomplete,not certified,North-Central
+3MTT-F00909,Suleiman,Ibrahim,Sokoto,ALC-054,4,UI/UX Design,2024-03-05,complete,certified,North-West
+3MTT-F01090,Zainab,Musa,Cross River,ALC-027,3,Product Management,2024-03-05,complete,certified,South-South
+3MTT-F01096,Chukwuemeka,Eze,Ondo,ALC-042,3,Cybersecurity,2024-03-05,complete,certified,South-West
+3MTT-F00754,Zainab,Yakubu,Cross River,ALC-027,4,Data Analysis,2024-03-05,complete,certified,South-South
+3MTT-F00268,Grace,Sule,Enugu,ALC-048,4,AI/ML,2024-03-05,incomplete,not certified,South-East
+3MTT-F00284,Ifeanyi,Chukwu,Niger,ALC-034,3,Product Management,2024-03-05,complete,not certified,North-Central
+3MTT-F00336,Grace,Olawale,Delta,ALC-023,3,AI/ML,2024-03-06,complete,certified,South-South
+3MTT-F00446,Nnamdi,Okafor,Borno,ALC-030,3,DevOps,2024-03-06,incomplete,not certified,North-East
+3MTT-F01065,Temitope,Chukwu,Ebonyi,ALC-038,4,UI/UX Design,2024-03-06,incomplete,not certified,South-East
+3MTT-F00256,Fatima,Afolabi,Kano,ALC-004,3,Data Analysis,2024-03-06,complete,certified,North-West
+3MTT-F00499,Babatunde,Anyanwu,Ebonyi,ALC-037,3,DevOps,2024-03-06,complete,certified,South-East
+3MTT-F00104,Obinna,Ibrahim,Kogi,ALC-011,4,DevOps,2024-03-06,incomplete,not certified,North-Central
+3MTT-F00564,Chiamaka,Abubakar,Jigawa,ALC-014,4,Data Analysis,2024-03-07,complete,not certified,North-West
+3MTT-F00671,Temitope,Okonkwo,Anambra,ALC-032,3,Cloud Computing,2024-03-07,complete,certified,South-East
+3MTT-F00812,Nneka,Adeyemi,Borno,ALC-UNKNOWN,4,AI/ML,2024-03-07,incomplete,not certified,
+3MTT-F00318,Nnamdi,Yakubu,Delta,ALC-023,4,UI/UX Design,2024-03-07,incomplete,not certified,South-South
+3MTT-F00303,Oluwafemi,Ibrahim,Ebonyi,ALC-037,4,Cybersecurity,2024-03-08,complete,not certified,South-East
+3MTT-F00140,Fatima,Sule,Sokoto,ALC-054,4,UI/UX Design,2024-03-08,complete,certified,North-West
+3MTT-F00565,Nnamdi,Olawale,Benue,ALC-012,3,Cloud Computing,2024-03-08,complete,certified,North-Central
+3MTT-F01004,Nneka,Bello,Zamfara,ALC-006,3,DevOps,2024-03-08,incomplete,not certified,North-East
+3MTT-F00359,Amina,Sule,Abuja,ALC-025,4,Data Analysis,2024-03-08,complete,not certified,North-Central
+3MTT-F00811,Fatima,Adeyemi,Taraba,ALC-001,4,Software Development,2024-03-08,complete,certified,North-East
+3MTT-F00113,Ekene,Lawal,Yobe,ALC-050,4,Cloud Computing,2024-03-09,complete,certified,North-East
+3MTT-F00153,Dele,Adeyemi,Enugu,ALC-048,4,Product Management,2024-03-09,complete,certified,South-East
+3MTT-F00463,Suleiman,Afolabi,Ebonyi,ALC-038,4,Product Management,2024-03-09,complete,certified,South-East
+3MTT-F00237,Ifeanyi,Lawal,Kogi,ALC-011,4,DevOps,2024-03-09,incomplete,not certified,North-Central
+3MTT-F00676,Kayode,Musa,Rivers,ALC-044,3,DevOps,2024-03-09,complete,certified,South-East
+3MTT-F00594,Ekene,Nwachukwu,Taraba,ALC-003,3,Product Management,2024-03-09,complete,certified,North-West
+3MTT-F00682,Temitope,Abubakar,Lagos,ALC-016,4,DevOps,2024-03-09,complete,certified,South-West
+3MTT-F00599,Ekene,Garba,Oyo,ALC-049,4,DevOps,2024-03-09,incomplete,not certified,South-West
+3MTT-F00232,Chinwe,Bello,Osun,ALC-046,3,UI/UX Design,2024-03-10,complete,certified,South-West
+3MTT-F01056,Nneka,Adeyemi,Katsina,ALC-039,4,Cloud Computing,2024-03-10,incomplete,not certified,North-West
+3MTT-F00652,Fatima,Lawal,Anambra,ALC-028,3,Cybersecurity,2024-03-10,complete,certified,South-East
+3MTT-F00777,Chukwuemeka,Nwosu,Oyo,ALC-049,4,Software Development,2024-03-12,incomplete,not certified,South-West
+3MTT-F00009,Adaeze,Ojo,Ondo,ALC-020,4,Cloud Computing,2024-03-12,complete,certified,South-West
+3MTT-F00667,Babatunde,Adeyemi,Ogun,ALC-020,3,DevOps,2024-03-12,complete,certified,South-West
+3MTT-F00887,Obinna,Musa,Katsina,ALC-039,3,Cybersecurity,2024-03-13,incomplete,not certified,North-West
+3MTT-F00732,Bola,Okafor,Gombe,ALC-026,3,Software Development,2024-03-13,incomplete,not certified,North-East
+3MTT-F00450,Umar,Olawale,Enugu,ALC-048,3,DevOps,2024-03-13,complete,not certified,South-East
+3MTT-F00443,Chiamaka,Eze,Lagos,ALC-016,4,UI/UX Design,2024-03-13,incomplete,not certified,South-West
+3MTT-F00135,Nnamdi,Yakubu,Edo,ALC-041,3,UI/UX Design,2024-03-13,incomplete,not certified,South-South
+3MTT-F00141,Ekene,Okafor,Plateau,ALC-033,4,Product Management,2024-03-13,incomplete,not certified,North-Central
+3MTT-F00797,Adaeze,Sule,Bayelsa,ALC-021,3,AI/ML,2024-03-14,incomplete,not certified,South-South
+3MTT-F00351,Chukwuemeka,Okonkwo,Gombe,ALC-026,3,UI/UX Design,2024-03-14,complete,certified,North-East
+3MTT-F00708,Chiamaka,Lawal,Kwara,ALC-042,4,DevOps,2024-03-14,complete,certified,South-West
+3MTT-F00346,Temitope,Hassan,Kano,ALC-004,4,Cybersecurity,2024-03-14,complete,certified,North-West
+3MTT-F00809,Grace,Lawal,Niger,ALC-034,4,DevOps,2024-03-14,complete,certified,North-Central
+3MTT-F00218,Halima,Anyanwu,Imo,ALC-044,4,AI/ML,2024-03-15,complete,certified,South-East
+3MTT-F00740,Maryam,Chukwu,Osun,ALC-018,3,AI/ML,2024-03-15,incomplete,not certified,South-West
+3MTT-F01123,Fatima,Afolabi,Yobe,ALC-050,4,Cybersecurity,2024-03-15,complete,certified,North-East
+3MTT-F00514,Ifeanyi,Ojo,Taraba,ALC-011,4,Software Development,2024-03-15,complete,certified,North-Central
+3MTT-F01137,Nnamdi,Eze,Niger,ALC-009,3,UI/UX Design,2024-03-16,complete,not certified,North-Central
+3MTT-F01026,Ifeanyi,Musa,Jigawa,ALC-031,4,Data Analysis,2024-03-16,complete,certified,North-West
+3MTT-F00068,Ekene,Bello,Plateau,ALC-036,4,AI/ML,2024-03-16,incomplete,not certified,North-Central
+3MTT-F00951,Grace,Abubakar,Zamfara,ALC-006,4,Cloud Computing,2024-03-17,incomplete,not certified,North-East
+3MTT-F00815,Nnamdi,Nwosu,Borno,ALC-030,3,Data Analysis,2024-03-17,complete,certified,North-East
+3MTT-F00053,Fatima,Ike,Kwara,ALC-036,3,AI/ML,2024-03-17,complete,not certified,North-Central
+3MTT-F00198,Nneka,Afolabi,Sokoto,ALC-UNKNOWN,3,DevOps,2024-03-17,complete,certified,
+3MTT-F00843,Ifeanyi,Anyanwu,Ekiti,ALC-006,3,Product Management,2024-03-17,incomplete,not certified,North-East
+3MTT-F00872,Temitope,Musa,Ekiti,ALC-UNKNOWN,3,Cybersecurity,2024-03-18,complete,certified,
+3MTT-F00441,Suleiman,Eze,Bayelsa,ALC-021,4,Data Analysis,2024-03-18,complete,certified,South-South
+3MTT-F00204,Temitope,Musa,Bauchi,ALC-006,3,Cybersecurity,2024-03-18,incomplete,not certified,North-East
+3MTT-F00703,Umar,Aliyu,Sokoto,ALC-054,3,Cybersecurity,2024-03-19,complete,not certified,North-West
+3MTT-F00800,Amina,Afolabi,Borno,ALC-030,4,Software Development,2024-03-19,complete,not certified,North-East
+3MTT-F01106,Umar,Bello,Katsina,ALC-039,3,AI/ML,2024-03-19,complete,certified,North-West
+3MTT-F00206,Oluwafemi,Ike,Katsina,ALC-039,4,Cybersecurity,2024-03-19,complete,certified,North-West
+3MTT-F01125,Yusuf,Hassan,Adamawa,ALC-001,3,UI/UX Design,2024-03-19,complete,certified,North-East
+3MTT-F00969,Chukwuemeka,Lawal,Abia,ALC-045,3,Product Management,2024-03-20,complete,not certified,North-Central
+3MTT-F00961,Chinwe,Ike,Nasarawa,ALC-051,3,Cloud Computing,2024-03-20,complete,certified,North-Central
+3MTT-F00823,Halima,Ojo,Benue,ALC-017,3,Data Analysis,2024-03-20,incomplete,not certified,North-Central
+3MTT-F00974,Nnamdi,Yakubu,Bauchi,ALC-006,3,AI/ML,2024-03-20,complete,certified,North-East
+3MTT-F00370,Ifeanyi,Ibrahim,Nasarawa,ALC-051,4,Data Analysis,2024-03-20,complete,not certified,North-Central
+3MTT-F00467,Bola,Anyanwu,Lagos,ALC-016,3,Product Management,2024-03-20,complete,certified,South-West
+3MTT-F01007,Oluwafemi,Olawale,Akwa Ibom,ALC-011,3,UI/UX Design,2024-03-21,complete,certified,North-Central
+3MTT-F00925,Halima,Hassan,Niger,ALC-009,4,Product Management,2024-03-21,complete,certified,North-Central
+3MTT-F00715,Nnamdi,Adegoke,Adamawa,ALC-001,3,Cybersecurity,2024-03-21,complete,certified,North-East
+3MTT-F00520,Dele,Hassan,Kaduna,ALC-053,4,Product Management,2024-03-22,complete,certified,North-West
+3MTT-F00451,Chukwuemeka,Musa,Bayelsa,ALC-UNKNOWN,3,Software Development,2024-03-22,incomplete,not certified,
+3MTT-F00633,Bola,Chukwu,Borno,ALC-030,3,Cloud Computing,2024-03-22,complete,certified,North-East
+3MTT-F01097,Halima,Aliyu,Zamfara,ALC-054,3,Cybersecurity,2024-03-23,complete,certified,North-West
+3MTT-F00516,Ekene,Nwosu,Kogi,ALC-011,3,Data Analysis,2024-03-23,complete,certified,North-Central
+3MTT-F00238,Obinna,Aliyu,Ondo,ALC-042,4,UI/UX Design,2024-03-23,incomplete,not certified,South-West
+3MTT-F00032,Grace,Abubakar,Osun,ALC-046,3,Cybersecurity,2024-03-23,complete,not certified,South-West
+3MTT-F00662,Zainab,Anyanwu,Rivers,ALC-031,3,DevOps,2024-03-24,complete,certified,North-West
+3MTT-F00384,Grace,Effiong,Anambra,ALC-032,4,DevOps,2024-03-24,incomplete,not certified,South-East
+3MTT-F00186,Obinna,Bello,Rivers,ALC-041,3,Cloud Computing,2024-03-24,complete,certified,South-South
+3MTT-F00748,Halima,Aliyu,Taraba,ALC-025,4,UI/UX Design,2024-03-24,complete,certified,North-Central
+3MTT-F00629,Babatunde,Nwosu,Delta,ALC-023,3,Cloud Computing,2024-03-25,complete,certified,South-South
+3MTT-F00761,Chinwe,Abubakar,Osun,ALC-018,3,Software Development,2024-03-25,incomplete,not certified,South-West
+3MTT-F00056,Suleiman,Afolabi,Anambra,ALC-032,3,UI/UX Design,2024-03-25,complete,certified,South-East
+3MTT-F00912,Amina,Effiong,Borno,ALC-030,3,DevOps,2024-03-25,incomplete,not certified,North-East
+3MTT-F00334,Suleiman,Nwachukwu,Abia,ALC-024,4,Cybersecurity,2024-03-25,complete,not certified,North-West
+3MTT-F00368,Yusuf,Okafor,Plateau,ALC-033,3,Cybersecurity,2024-03-26,complete,certified,North-Central
+3MTT-F00783,Bola,Adeyemi,Gombe,ALC-026,4,Cybersecurity,2024-03-26,incomplete,not certified,North-East
+3MTT-F00798,Bola,Ike,Zamfara,ALC-045,4,AI/ML,2024-03-26,incomplete,not certified,North-Central
+3MTT-F00298,Fatima,Nwosu,Nasarawa,ALC-051,4,Product Management,2024-03-26,complete,certified,North-Central
+3MTT-F00923,Dele,Ojo,Ebonyi,ALC-038,4,UI/UX Design,2024-03-26,incomplete,not certified,South-East
+3MTT-F00212,Kayode,Chukwu,Kebbi,ALC-024,3,Product Management,2024-03-27,complete,certified,North-West
+3MTT-F00620,Fatima,Okonkwo,Jigawa,ALC-UNKNOWN,4,Product Management,2024-03-27,incomplete,not certified,
+3MTT-F00867,Suleiman,Sule,Niger,ALC-034,4,Cloud Computing,2024-03-27,complete,certified,North-Central
+3MTT-F00119,Chinwe,Hassan,Adamawa,ALC-043,3,Product Management,2024-03-27,incomplete,not certified,North-East
+3MTT-F00494,Grace,Nwachukwu,Bauchi,ALC-006,4,AI/ML,2024-03-28,complete,not certified,North-East
+3MTT-F00844,Umar,Badmus,Kano,ALC-UNKNOWN,3,Product Management,2024-03-28,complete,certified,
+3MTT-F00679,Bola,Aliyu,Rivers,ALC-015,3,AI/ML,2024-03-28,incomplete,not certified,North-West
+3MTT-F00431,Yusuf,Adeyemi,Anambra,ALC-032,4,DevOps,2024-03-28,complete,certified,South-East
+3MTT-F01102,Chinwe,Aliyu,Enugu,ALC-048,4,Data Analysis,2024-03-29,incomplete,not certified,South-East
+3MTT-F00177,Chiamaka,Afolabi,Plateau,ALC-036,4,Cybersecurity,2024-03-29,complete,certified,North-Central
+3MTT-F00775,Ifeanyi,Nwosu,Benue,ALC-012,4,Data Analysis,2024-03-29,incomplete,not certified,North-Central
+3MTT-F00630,Nneka,Anyanwu,Ogun,ALC-009,4,Software Development,2024-03-29,complete,certified,North-Central
+3MTT-F00617,Chinwe,Eze,Gombe,ALC-026,4,AI/ML,2024-03-29,complete,not certified,North-East
+3MTT-F00894,Adaeze,Ibrahim,Zamfara,ALC-050,4,Cybersecurity,2024-03-30,incomplete,not certified,North-East
+3MTT-F01076,Fatima,Afolabi,Kaduna,ALC-053,4,Data Analysis,2024-03-30,complete,certified,North-West
+3MTT-F00975,Temitope,Garba,Zamfara,ALC-038,3,Data Analysis,2024-03-30,complete,certified,South-East
+3MTT-F00766,Babatunde,Ike,Gombe,ALC-026,3,Data Analysis,2024-03-30,incomplete,not certified,North-East
+3MTT-F01084,Fatima,Musa,Abuja,ALC-025,3,Data Analysis,2024-03-30,complete,not certified,North-Central
+3MTT-F00366,Halima,Olawale,Kogi,ALC-011,4,Data Analysis,2024-03-30,complete,certified,North-Central
+3MTT-F00101,Ifeanyi,Abubakar,Sokoto,ALC-054,4,Product Management,2024-03-31,complete,certified,North-West
+3MTT-F00742,Chiamaka,Sule,Kwara,ALC-013,3,Cybersecurity,2024-03-31,incomplete,not certified,North-Central
+3MTT-F00721,Chukwuemeka,Hassan,Delta,ALC-023,4,Product Management,2024-03-31,complete,certified,South-South
+3MTT-F00687,Temitope,Olawale,Bauchi,ALC-006,3,DevOps,2024-03-31,incomplete,not certified,North-East
+3MTT-F00088,Suleiman,Adeyemi,Cross River,ALC-010,3,Data Analysis,2024-03-31,incomplete,not certified,South-South
+3MTT-F00915,Chukwuemeka,Nwachukwu,Akwa Ibom,ALC-049,3,Cloud Computing,2024-04-01,incomplete,not certified,South-West
+3MTT-F00627,Suleiman,Adeyemi,Osun,ALC-046,3,Product Management,2024-04-01,complete,certified,South-West
+3MTT-F00158,Nnamdi,Lawal,Oyo,ALC-UNKNOWN,4,Cloud Computing,2024-04-01,complete,certified,
+3MTT-F01100,Kayode,Okonkwo,Enugu,ALC-048,4,UI/UX Design,2024-04-02,complete,certified,South-East
+3MTT-F00098,Segun,Lawal,Adamawa,ALC-043,3,Cloud Computing,2024-04-02,incomplete,not certified,North-East
+3MTT-F00875,Segun,Hassan,Enugu,ALC-048,4,DevOps,2024-04-02,complete,certified,South-East
+3MTT-F00070,Nnamdi,Aliyu,Cross River,ALC-027,4,DevOps,2024-04-02,complete,certified,South-South
+3MTT-F00270,Ekene,Okafor,Katsina,ALC-UNKNOWN,4,DevOps,2024-04-02,complete,certified,
+3MTT-F00007,Amina,Chukwu,Niger,ALC-009,3,Software Development,2024-04-02,complete,certified,North-Central
+3MTT-F00169,Yusuf,Chukwu,Anambra,ALC-028,4,Cybersecurity,2024-04-02,complete,not certified,South-East
+3MTT-F00500,Ifeanyi,Effiong,Delta,ALC-023,4,Cybersecurity,2024-04-02,complete,certified,South-South
+3MTT-F01119,Umar,Okafor,Adamawa,ALC-043,3,DevOps,2024-04-03,incomplete,not certified,North-East
+3MTT-F00145,Fatima,Adeyemi,Oyo,ALC-049,3,Cloud Computing,2024-04-03,complete,certified,South-West
+3MTT-F00105,Umar,Anyanwu,Abuja,ALC-025,4,Product Management,2024-04-03,complete,certified,North-Central
+3MTT-F00480,Bola,Bello,Abuja,ALC-025,4,Cloud Computing,2024-04-03,complete,not certified,North-Central
+3MTT-F00168,Maryam,Ike,Yobe,ALC-019,3,Data Analysis,2024-04-03,complete,not certified,North-East
+3MTT-F00736,Adaeze,Okonkwo,Plateau,ALC-036,4,Cybersecurity,2024-04-04,complete,certified,North-Central
+3MTT-F00054,Chiamaka,Badmus,Delta,ALC-023,4,Cloud Computing,2024-04-05,incomplete,not certified,South-South
+3MTT-F00097,Amina,Adeyemi,Adamawa,ALC-001,3,UI/UX Design,2024-04-05,complete,certified,North-East
+3MTT-F00772,Ifeanyi,Adegoke,Taraba,ALC-012,3,Cybersecurity,2024-04-06,complete,certified,North-Central
+3MTT-F00850,Nnamdi,Anyanwu,Kano,ALC-004,3,Product Management,2024-04-06,incomplete,not certified,North-West
+3MTT-F00791,Obinna,Afolabi,Lagos,ALC-016,4,Cybersecurity,2024-04-07,complete,certified,South-West
+3MTT-F00644,Maryam,Adeyemi,Niger,ALC-034,4,Software Development,2024-04-07,incomplete,not certified,North-Central
+3MTT-F00417,Umar,Ojo,Osun,ALC-UNKNOWN,4,Software Development,2024-04-07,incomplete,not certified,
+3MTT-F00066,Maryam,Adegoke,Enugu,ALC-048,3,Data Analysis,2024-04-07,incomplete,not certified,South-East
+3MTT-F00935,Ekene,Nwachukwu,Delta,ALC-023,3,Cloud Computing,2024-04-08,incomplete,not certified,South-South
+3MTT-F01050,Umar,Afolabi,Ogun,ALC-013,4,Cloud Computing,2024-04-08,incomplete,not certified,North-Central
+3MTT-F01142,Zainab,Yakubu,Ekiti,ALC-044,3,Product Management,2024-04-08,complete,certified,South-East
+3MTT-F00118,Chiamaka,Lawal,Ondo,ALC-020,4,AI/ML,2024-04-08,complete,not certified,South-West
+3MTT-F00820,Segun,Olawale,Kogi,ALC-011,4,DevOps,2024-04-08,complete,certified,North-Central
+3MTT-F00513,Umar,Eze,Abuja,ALC-025,4,Cybersecurity,2024-04-08,complete,certified,North-Central
+3MTT-F00320,Babatunde,Bello,Jigawa,ALC-031,4,AI/ML,2024-04-08,complete,certified,North-West
+3MTT-F00507,Suleiman,Badmus,Lagos,ALC-016,3,Cybersecurity,2024-04-08,incomplete,not certified,South-West
+3MTT-F00192,Halima,Badmus,Zamfara,ALC-029,4,Data Analysis,2024-04-09,incomplete,not certified,North-West
+3MTT-F00949,Chiamaka,Aliyu,Abuja,ALC-025,4,Cloud Computing,2024-04-09,complete,not certified,North-Central
+3MTT-F00701,Grace,Lawal,Ebonyi,ALC-038,4,Cloud Computing,2024-04-09,complete,not certified,South-East
+3MTT-F01025,Ifeanyi,Anyanwu,Kaduna,ALC-005,3,UI/UX Design,2024-04-09,complete,certified,North-West
+3MTT-F00403,Babatunde,Nwosu,Adamawa,ALC-043,3,Data Analysis,2024-04-09,incomplete,not certified,North-East
+3MTT-F00702,Temitope,Ojo,Kwara,ALC-041,4,Data Analysis,2024-04-10,complete,certified,South-South
+3MTT-F00272,Nneka,Abubakar,Edo,ALC-041,4,Data Analysis,2024-04-10,complete,certified,South-South
+3MTT-F00621,Segun,Chukwu,Ogun,ALC-003,4,Cloud Computing,2024-04-11,complete,certified,North-West
+3MTT-F00646,Ekene,Hassan,Imo,ALC-044,3,Cybersecurity,2024-04-11,incomplete,not certified,South-East
+3MTT-F00224,Yusuf,Olawale,Kwara,ALC-038,4,Cybersecurity,2024-04-11,complete,certified,South-East
+3MTT-F01114,Fatima,Okafor,Cross River,ALC-027,4,Software Development,2024-04-11,complete,certified,South-South
+3MTT-F00607,Segun,Adegoke,Abia,ALC-051,4,Software Development,2024-04-12,complete,not certified,North-Central
+3MTT-F00240,Kayode,Effiong,Anambra,ALC-032,3,AI/ML,2024-04-13,complete,certified,South-East
+3MTT-F00533,Obinna,Okonkwo,Ogun,ALC-019,3,UI/UX Design,2024-04-13,incomplete,not certified,North-East
+3MTT-F01113,Dele,Garba,Delta,ALC-023,3,Data Analysis,2024-04-13,complete,not certified,South-South
+3MTT-F01012,Bola,Ojo,Ebonyi,ALC-038,4,Product Management,2024-04-13,complete,certified,South-East
+3MTT-F00549,Dele,Badmus,Lagos,ALC-016,4,AI/ML,2024-04-13,complete,certified,South-West
+3MTT-F00130,Amina,Ike,Kano,ALC-004,3,Software Development,2024-04-13,complete,certified,North-West
+3MTT-F00129,Suleiman,Okonkwo,Borno,ALC-030,4,AI/ML,2024-04-13,complete,not certified,North-East
+3MTT-F00478,Oluwafemi,Musa,Yobe,ALC-050,4,Cybersecurity,2024-04-14,incomplete,not certified,North-East
+3MTT-F00637,Obinna,Chukwu,Yobe,ALC-019,3,DevOps,2024-04-14,incomplete,not certified,North-East
+3MTT-F01054,Babatunde,Sule,Sokoto,ALC-054,3,Cybersecurity,2024-04-14,complete,certified,North-West
+3MTT-F00052,Segun,Ike,Plateau,ALC-033,3,DevOps,2024-04-14,incomplete,not certified,North-Central
+3MTT-F01085,Maryam,Ike,Plateau,ALC-033,4,AI/ML,2024-04-15,incomplete,not certified,North-Central
+3MTT-F00989,Segun,Sule,Ekiti,ALC-034,4,DevOps,2024-04-15,complete,certified,North-Central
+3MTT-F00788,Segun,Nwachukwu,Adamawa,ALC-043,4,UI/UX Design,2024-04-15,incomplete,not certified,North-East
+3MTT-F00942,Kayode,Ibrahim,Gombe,ALC-026,4,AI/ML,2024-04-16,complete,certified,North-East
+3MTT-F00251,Yusuf,Nwachukwu,Kogi,ALC-040,4,Product Management,2024-04-16,incomplete,not certified,North-Central
+3MTT-F00191,Oluwafemi,Anyanwu,Cross River,ALC-010,4,Cloud Computing,2024-04-16,complete,certified,South-South
+3MTT-F00452,Bola,Okonkwo,Bayelsa,ALC-021,4,Cybersecurity,2024-04-16,complete,certified,South-South
+3MTT-F01092,Ifeanyi,Ibrahim,Jigawa,ALC-014,3,Data Analysis,2024-04-16,complete,certified,North-West
+3MTT-F00600,Fatima,Musa,Cross River,ALC-010,3,DevOps,2024-04-16,complete,certified,South-South
+3MTT-F00579,Kayode,Okonkwo,Akwa Ibom,ALC-005,4,Software Development,2024-04-16,complete,not certified,North-West
+3MTT-F01107,Obinna,Ike,Kano,ALC-004,4,Cloud Computing,2024-04-17,complete,certified,North-West
+3MTT-F00793,Bola,Yakubu,Sokoto,ALC-047,3,Cybersecurity,2024-04-17,incomplete,not certified,North-West
+3MTT-F00635,Chiamaka,Sule,Bauchi,ALC-006,4,Cybersecurity,2024-04-18,incomplete,not certified,North-East
+3MTT-F00773,Fatima,Anyanwu,Delta,ALC-023,4,AI/ML,2024-04-18,complete,certified,South-South
+3MTT-F00241,Chiamaka,Anyanwu,Niger,ALC-045,3,UI/UX Design,2024-04-18,incomplete,not certified,North-Central
+3MTT-F00853,Suleiman,Okonkwo,Edo,ALC-041,3,Product Management,2024-04-18,complete,certified,South-South
+3MTT-F00307,Kayode,Okonkwo,Edo,ALC-041,4,UI/UX Design,2024-04-18,complete,certified,South-South
+3MTT-F00980,Adaeze,Garba,Imo,ALC-035,4,Data Analysis,2024-04-18,incomplete,not certified,South-East
+3MTT-F00806,Nneka,Garba,Jigawa,ALC-031,4,Product Management,2024-04-18,complete,not certified,North-West
+3MTT-F00665,Yusuf,Lawal,Imo,ALC-035,4,AI/ML,2024-04-19,complete,not certified,South-East
+3MTT-F00624,Zainab,Afolabi,Abia,ALC-032,3,Data Analysis,2024-04-19,complete,not certified,South-East
+3MTT-F00889,Bola,Aliyu,Delta,ALC-UNKNOWN,4,Software Development,2024-04-19,complete,certified,
+3MTT-F00574,Nneka,Nwosu,Sokoto,ALC-054,4,Cloud Computing,2024-04-20,incomplete,not certified,North-West
+3MTT-F00525,Adaeze,Adegoke,Ondo,ALC-020,4,Software Development,2024-04-20,complete,certified,South-West
+3MTT-F00464,Babatunde,Badmus,Plateau,ALC-033,3,UI/UX Design,2024-04-20,complete,not certified,North-Central
+3MTT-F00044,Adaeze,Ike,Cross River,ALC-010,4,UI/UX Design,2024-04-21,complete,certified,South-South
+3MTT-F00727,Grace,Adegoke,Ekiti,ALC-006,4,UI/UX Design,2024-04-21,complete,certified,North-East
+3MTT-F00544,Grace,Okafor,Oyo,ALC-UNKNOWN,3,Cloud Computing,2024-04-21,complete,certified,
+3MTT-F00225,Suleiman,Effiong,Kano,ALC-004,3,UI/UX Design,2024-04-21,complete,certified,North-West
+3MTT-F00616,Adaeze,Yakubu,Cross River,ALC-UNKNOWN,4,Cloud Computing,2024-04-21,complete,certified,
+3MTT-F00019,Halima,Effiong,Kano,ALC-004,4,Product Management,2024-04-21,complete,certified,North-West
+3MTT-F00078,Grace,Adegoke,Abia,ALC-008,3,Cloud Computing,2024-04-22,complete,certified,South-West
+3MTT-F00414,Babatunde,Bello,Bauchi,ALC-006,3,UI/UX Design,2024-04-22,incomplete,not certified,North-East
+3MTT-F00487,Maryam,Musa,Ekiti,ALC-003,4,Data Analysis,2024-04-22,complete,certified,North-West
+3MTT-F00936,Zainab,Adegoke,Osun,ALC-018,3,Data Analysis,2024-04-22,incomplete,not certified,South-West
+3MTT-F00672,Yusuf,Badmus,Jigawa,ALC-031,3,Software Development,2024-04-22,complete,certified,North-West
+3MTT-F00497,Ekene,Bello,Taraba,ALC-015,4,DevOps,2024-04-23,complete,certified,North-West
+3MTT-F01017,Maryam,Afolabi,Imo,ALC-044,4,Cybersecurity,2024-04-23,complete,certified,South-East
+3MTT-F00983,Maryam,Okonkwo,Anambra,ALC-028,3,Cybersecurity,2024-04-24,complete,not certified,South-East
+3MTT-F00779,Obinna,Hassan,Ogun,ALC-015,4,Software Development,2024-04-24,complete,certified,North-West
+3MTT-F00357,Zainab,Yakubu,Edo,ALC-041,4,UI/UX Design,2024-04-24,incomplete,not certified,South-South
+3MTT-F00156,Yusuf,Nwachukwu,Plateau,ALC-007,4,Software Development,2024-04-25,complete,certified,North-Central
+3MTT-F00677,Fatima,Abubakar,Ebonyi,ALC-038,4,Software Development,2024-04-25,incomplete,not certified,South-East
+3MTT-F00982,Umar,Ojo,Kogi,ALC-011,3,Cybersecurity,2024-04-25,complete,certified,North-Central
+3MTT-F00856,Kayode,Olawale,Abia,ALC-UNKNOWN,4,UI/UX Design,2024-04-25,complete,certified,
+3MTT-F00558,Zainab,Musa,Bayelsa,ALC-021,4,Cloud Computing,2024-04-25,complete,certified,South-South
+3MTT-F00200,Chinwe,Sule,Enugu,ALC-048,3,Data Analysis,2024-04-26,incomplete,not certified,South-East
+3MTT-F01023,Halima,Okafor,Kwara,ALC-050,4,UI/UX Design,2024-04-27,incomplete,not certified,North-East
+3MTT-F00648,Adaeze,Badmus,Taraba,ALC-008,3,DevOps,2024-04-27,complete,certified,South-West
+3MTT-F00404,Nnamdi,Nwosu,Cross River,ALC-010,4,Cloud Computing,2024-04-27,incomplete,not certified,South-South
+3MTT-F00977,Ifeanyi,Eze,Ebonyi,ALC-037,3,DevOps,2024-04-27,incomplete,not certified,South-East
+3MTT-F01037,Zainab,Eze,Kwara,ALC-041,3,UI/UX Design,2024-04-28,complete,certified,South-South
+3MTT-F00837,Umar,Lawal,Abia,ALC-054,3,Cybersecurity,2024-04-28,incomplete,not certified,North-West
+3MTT-F00338,Grace,Olawale,Benue,ALC-017,4,Cloud Computing,2024-04-29,complete,certified,North-Central
+3MTT-F01143,Babatunde,Adegoke,Akwa Ibom,ALC-039,4,Data Analysis,2024-04-29,complete,certified,North-West
+3MTT-F00397,Oluwafemi,Sule,Yobe,ALC-019,3,Software Development,2024-04-29,complete,certified,North-East
+3MTT-F00526,Ifeanyi,Effiong,Ogun,ALC-001,4,AI/ML,2024-04-29,incomplete,not certified,North-East
+3MTT-F00265,Ifeanyi,Lawal,Osun,ALC-018,4,Data Analysis,2024-04-30,incomplete,not certified,South-West
+3MTT-F00902,Fatima,Sule,Rivers,ALC-052,3,Cybersecurity,2024-04-30,complete,certified,North-Central
+3MTT-F00282,Segun,Olawale,Taraba,ALC-021,3,Software Development,2024-04-30,complete,certified,South-South
+3MTT-F00389,Umar,Ibrahim,Delta,ALC-023,4,Data Analysis,2024-05-01,complete,certified,South-South
+3MTT-F00984,Halima,Hassan,Imo,ALC-035,4,Cybersecurity,2024-05-01,complete,certified,South-East
+3MTT-F00953,Adaeze,Afolabi,Kano,ALC-004,4,Cybersecurity,2024-05-01,complete,certified,North-West
+3MTT-F00863,Segun,Effiong,Bauchi,ALC-006,4,Cloud Computing,2024-05-02,incomplete,not certified,North-East
+3MTT-F01134,Bola,Ibrahim,Kwara,ALC-043,4,Product Management,2024-05-02,complete,certified,North-East
+3MTT-F01055,Nneka,Yakubu,Lagos,ALC-016,4,UI/UX Design,2024-05-02,complete,certified,South-West
+3MTT-F00148,Yusuf,Aliyu,Abuja,ALC-UNKNOWN,4,Cloud Computing,2024-05-02,incomplete,not certified,
+3MTT-F00062,Kayode,Aliyu,Katsina,ALC-039,4,Product Management,2024-05-02,complete,certified,North-West
+3MTT-F00412,Amina,Ojo,Niger,ALC-013,4,DevOps,2024-05-02,incomplete,not certified,North-Central
+3MTT-F00877,Nnamdi,Lawal,Abia,ALC-047,3,AI/ML,2024-05-02,incomplete,not certified,North-West
+3MTT-F00496,Dele,Nwosu,Zamfara,ALC-014,4,Cybersecurity,2024-05-02,complete,certified,North-West
+3MTT-F00018,Ekene,Adegoke,Kebbi,ALC-029,4,DevOps,2024-05-03,complete,certified,North-West
+3MTT-F00919,Dele,Anyanwu,Ogun,ALC-UNKNOWN,4,Cybersecurity,2024-05-03,complete,certified,
+3MTT-F00530,Zainab,Chukwu,Delta,ALC-023,3,Data Analysis,2024-05-03,complete,certified,South-South
+3MTT-F00931,Adaeze,Ibrahim,Kwara,ALC-020,4,AI/ML,2024-05-04,complete,certified,South-West
+3MTT-F00342,Kayode,Ike,Nasarawa,ALC-051,4,Cloud Computing,2024-05-04,complete,certified,North-Central
+3MTT-F01014,Amina,Yakubu,Ondo,ALC-020,3,Software Development,2024-05-05,incomplete,not certified,South-West
+3MTT-F01028,Chiamaka,Ibrahim,Enugu,ALC-048,3,Cybersecurity,2024-05-05,complete,certified,South-East
+3MTT-F00274,Bola,Nwachukwu,Nasarawa,ALC-051,3,DevOps,2024-05-05,complete,certified,North-Central
+3MTT-F00025,Ekene,Ojo,Borno,ALC-030,4,Data Analysis,2024-05-05,incomplete,not certified,North-East
+3MTT-F00378,Kayode,Garba,Kebbi,ALC-UNKNOWN,3,Cybersecurity,2024-05-06,complete,not certified,
+3MTT-F00778,Chukwuemeka,Chukwu,Zamfara,ALC-002,4,UI/UX Design,2024-05-06,complete,certified,North-Central
+3MTT-F00006,Suleiman,Ike,Cross River,ALC-027,4,DevOps,2024-05-06,incomplete,not certified,South-South
+3MTT-F00244,Suleiman,Badmus,Adamawa,ALC-043,4,AI/ML,2024-05-07,complete,certified,North-East
+3MTT-F00958,Halima,Bello,Yobe,ALC-019,4,Cloud Computing,2024-05-07,complete,certified,North-East
+3MTT-F00154,Dele,Nwachukwu,Zamfara,ALC-048,4,Software Development,2024-05-07,complete,certified,South-East
+3MTT-F00532,Grace,Olawale,Niger,ALC-009,4,Product Management,2024-05-07,complete,certified,North-Central
+3MTT-F00387,Chiamaka,Nwosu,Taraba,ALC-039,4,AI/ML,2024-05-07,complete,certified,North-West
+3MTT-F00501,Nnamdi,Effiong,Abuja,ALC-025,3,Cloud Computing,2024-05-07,incomplete,not certified,North-Central
+3MTT-F00604,Yusuf,Afolabi,Zamfara,ALC-001,4,Cloud Computing,2024-05-07,complete,certified,North-East
+3MTT-F00426,Nnamdi,Sule,Oyo,ALC-049,4,AI/ML,2024-05-07,incomplete,not certified,South-West
+3MTT-F00787,Umar,Lawal,Ekiti,ALC-036,4,DevOps,2024-05-08,complete,certified,North-Central
+3MTT-F00385,Kayode,Lawal,Abia,ALC-012,4,Cloud Computing,2024-05-08,complete,not certified,North-Central
+3MTT-F01145,Chukwuemeka,Nwachukwu,Osun,ALC-018,3,Cybersecurity,2024-05-08,complete,certified,South-West
+3MTT-F00762,Dele,Hassan,Rivers,ALC-048,3,Product Management,2024-05-09,complete,not certified,South-East
+3MTT-F00316,Obinna,Adegoke,Sokoto,ALC-047,4,DevOps,2024-05-09,complete,certified,North-West
+3MTT-F00332,Adaeze,Afolabi,Rivers,ALC-005,3,AI/ML,2024-05-09,complete,certified,North-West
+3MTT-F00995,Chukwuemeka,Abubakar,Lagos,ALC-016,4,UI/UX Design,2024-05-10,complete,certified,South-West
+3MTT-F00107,Amina,Ibrahim,Nasarawa,ALC-051,4,Software Development,2024-05-10,incomplete,not certified,North-Central
+3MTT-F00609,Bola,Okonkwo,Cross River,ALC-027,3,Product Management,2024-05-10,incomplete,not certified,South-South
+3MTT-F00079,Segun,Abubakar,Plateau,ALC-007,4,Cybersecurity,2024-05-10,complete,certified,North-Central
+3MTT-F00041,Kayode,Anyanwu,Edo,ALC-041,4,Cloud Computing,2024-05-10,complete,certified,South-South
+3MTT-F00979,Chiamaka,Ojo,Kaduna,ALC-005,3,AI/ML,2024-05-11,complete,certified,North-West
+3MTT-F00115,Nnamdi,Eze,Ekiti,ALC-054,4,Cloud Computing,2024-05-11,complete,certified,North-West
+3MTT-F00017,Ifeanyi,Adeyemi,Abuja,ALC-025,3,UI/UX Design,2024-05-11,complete,certified,North-Central
+3MTT-F00900,Fatima,Anyanwu,Rivers,ALC-023,4,DevOps,2024-05-12,complete,certified,South-South
+3MTT-F00235,Grace,Bello,Kwara,ALC-050,3,Cybersecurity,2024-05-12,incomplete,not certified,North-East
+3MTT-F00634,Halima,Adeyemi,Oyo,ALC-049,3,DevOps,2024-05-12,incomplete,not certified,South-West
+3MTT-F00768,Dele,Nwachukwu,Yobe,ALC-019,3,AI/ML,2024-05-12,incomplete,not certified,North-East
+3MTT-F00623,Dele,Afolabi,Benue,ALC-012,4,Software Development,2024-05-12,incomplete,not certified,North-Central
+3MTT-F00598,Dele,Hassan,Ogun,ALC-007,3,UI/UX Design,2024-05-12,complete,certified,North-Central
+3MTT-F00377,Maryam,Okafor,Rivers,ALC-034,4,UI/UX Design,2024-05-13,incomplete,not certified,North-Central
+3MTT-F00331,Maryam,Okonkwo,Kwara,ALC-026,4,UI/UX Design,2024-05-13,complete,certified,North-East
+3MTT-F00363,Yusuf,Yakubu,Abia,ALC-029,4,Software Development,2024-05-13,complete,certified,North-West
+3MTT-F00128,Bola,Okonkwo,Osun,ALC-018,3,Cloud Computing,2024-05-13,complete,certified,South-West
+3MTT-F00934,Ifeanyi,Abubakar,Niger,ALC-045,4,Data Analysis,2024-05-13,incomplete,not certified,North-Central
+3MTT-F01031,Maryam,Lawal,Lagos,ALC-016,3,UI/UX Design,2024-05-13,complete,certified,South-West
+3MTT-F00121,Zainab,Anyanwu,Imo,ALC-044,3,UI/UX Design,2024-05-13,complete,certified,South-East
+3MTT-F00176,Chinwe,Okonkwo,Akwa Ibom,ALC-033,4,AI/ML,2024-05-14,complete,certified,North-Central
+3MTT-F00242,Ifeanyi,Lawal,Abuja,ALC-025,4,Data Analysis,2024-05-14,complete,certified,North-Central
+3MTT-F00842,Maryam,Ike,Akwa Ibom,ALC-UNKNOWN,3,Cloud Computing,2024-05-14,complete,certified,
+3MTT-F00027,Ekene,Okafor,Taraba,ALC-005,3,Data Analysis,2024-05-14,complete,not certified,North-West
+3MTT-F00125,Maryam,Hassan,Jigawa,ALC-031,4,AI/ML,2024-05-14,incomplete,not certified,North-West
+3MTT-F00409,Umar,Garba,Kogi,ALC-040,4,Data Analysis,2024-05-15,complete,certified,North-Central
+3MTT-F00746,Babatunde,Olawale,Abia,ALC-015,3,UI/UX Design,2024-05-15,incomplete,not certified,North-West
+3MTT-F00838,Chinwe,Lawal,Katsina,ALC-039,4,DevOps,2024-05-16,complete,certified,North-West
+3MTT-F00738,Bola,Afolabi,Ogun,ALC-029,4,Data Analysis,2024-05-16,incomplete,not certified,North-West
+3MTT-F00055,Temitope,Okafor,Kano,ALC-004,4,Cloud Computing,2024-05-16,complete,certified,North-West
+3MTT-F00102,Yusuf,Effiong,Edo,ALC-041,3,Data Analysis,2024-05-16,complete,certified,South-South
+3MTT-F00683,Chiamaka,Olawale,Akwa Ibom,ALC-038,4,Software Development,2024-05-16,complete,certified,South-East
+3MTT-F00535,Nneka,Adeyemi,Gombe,ALC-026,4,Cloud Computing,2024-05-16,incomplete,not certified,North-East
+3MTT-F01109,Nneka,Adegoke,Niger,ALC-009,3,Data Analysis,2024-05-16,incomplete,not certified,North-Central
+3MTT-F00836,Temitope,Effiong,Enugu,ALC-048,3,Product Management,2024-05-17,complete,certified,South-East
+3MTT-F00893,Zainab,Eze,Rivers,ALC-042,3,Software Development,2024-05-17,complete,certified,South-West
+3MTT-F00184,Nnamdi,Ibrahim,Ebonyi,ALC-037,4,AI/ML,2024-05-17,incomplete,not certified,South-East
+3MTT-F00920,Temitope,Ojo,Benue,ALC-002,4,Product Management,2024-05-17,incomplete,not certified,North-Central
+3MTT-F00277,Halima,Aliyu,Plateau,ALC-007,3,Product Management,2024-05-17,complete,certified,North-Central
+3MTT-F00074,Chiamaka,Abubakar,Ogun,ALC-013,3,UI/UX Design,2024-05-17,incomplete,not certified,North-Central
+3MTT-F00263,Oluwafemi,Badmus,Osun,ALC-018,4,AI/ML,2024-05-18,complete,certified,South-West
+3MTT-F00306,Ifeanyi,Abubakar,Anambra,ALC-028,3,Product Management,2024-05-18,complete,certified,South-East
+3MTT-F00099,Babatunde,Chukwu,Bayelsa,ALC-021,4,Cybersecurity,2024-05-18,complete,certified,South-South
+3MTT-F00650,Umar,Chukwu,Delta,ALC-023,3,UI/UX Design,2024-05-19,incomplete,not certified,South-South
+3MTT-F00910,Chiamaka,Anyanwu,Delta,ALC-023,3,Cloud Computing,2024-05-19,incomplete,not certified,South-South
+3MTT-F01086,Chiamaka,Lawal,Cross River,ALC-010,4,Cybersecurity,2024-05-19,complete,certified,South-South
+3MTT-F01112,Fatima,Ike,Ondo,ALC-042,4,Data Analysis,2024-05-19,incomplete,not certified,South-West
+3MTT-F00938,Ekene,Badmus,Benue,ALC-UNKNOWN,3,Software Development,2024-05-19,incomplete,not certified,
+3MTT-F00337,Zainab,Chukwu,Cross River,ALC-027,3,Cloud Computing,2024-05-20,complete,certified,South-South
+3MTT-F00064,Suleiman,Okafor,Nasarawa,ALC-051,3,Cybersecurity,2024-05-20,complete,certified,North-Central
+3MTT-F00245,Bola,Adeyemi,Bayelsa,ALC-021,3,DevOps,2024-05-20,incomplete,not certified,South-South
+3MTT-F00162,Obinna,Ike,Niger,ALC-013,3,Cybersecurity,2024-05-20,incomplete,not certified,North-Central
+3MTT-F00580,Chukwuemeka,Eze,Kano,ALC-004,4,DevOps,2024-05-20,incomplete,not certified,North-West
+3MTT-F00946,Nnamdi,Nwosu,Benue,ALC-012,3,Cloud Computing,2024-05-20,incomplete,not certified,North-Central
+3MTT-F00083,Bola,Chukwu,Oyo,ALC-049,3,UI/UX Design,2024-05-21,complete,certified,South-West
+3MTT-F00300,Nnamdi,Chukwu,Enugu,ALC-048,3,Data Analysis,2024-05-21,complete,certified,South-East
+3MTT-F00545,Halima,Nwosu,Jigawa,ALC-014,3,Software Development,2024-05-21,incomplete,not certified,North-West
+3MTT-F00435,Temitope,Nwosu,Benue,ALC-017,3,Software Development,2024-05-21,complete,not certified,North-Central
+3MTT-F00996,Fatima,Aliyu,Anambra,ALC-028,4,UI/UX Design,2024-05-22,complete,not certified,South-East
+3MTT-F00563,Segun,Ojo,Benue,ALC-002,3,Software Development,2024-05-22,incomplete,not certified,North-Central
+3MTT-F00173,Halima,Abubakar,Gombe,ALC-026,3,Software Development,2024-05-22,complete,certified,North-East
+3MTT-F00833,Obinna,Hassan,Yobe,ALC-050,4,Cybersecurity,2024-05-22,incomplete,not certified,North-East
+3MTT-F00527,Ekene,Garba,Plateau,ALC-007,4,Cloud Computing,2024-05-23,complete,certified,North-Central
+3MTT-F00137,Chiamaka,Adeyemi,Abia,ALC-028,4,Software Development,2024-05-24,complete,certified,South-East
+3MTT-F00941,Suleiman,Lawal,Sokoto,ALC-047,3,Product Management,2024-05-24,incomplete,not certified,North-West
+3MTT-F00556,Nnamdi,Ibrahim,Gombe,ALC-026,3,DevOps,2024-05-24,incomplete,not certified,North-East
+3MTT-F00717,Yusuf,Bello,Kebbi,ALC-024,4,Product Management,2024-05-25,complete,certified,North-West
+3MTT-F01069,Fatima,Ibrahim,Imo,ALC-044,3,Cybersecurity,2024-05-25,complete,not certified,South-East
+3MTT-F00541,Chinwe,Hassan,Benue,ALC-012,3,UI/UX Design,2024-05-26,complete,certified,North-Central
+3MTT-F00943,Maryam,Bello,Borno,ALC-030,4,UI/UX Design,2024-05-26,complete,not certified,North-East
+3MTT-F00790,Segun,Ibrahim,Rivers,ALC-037,4,AI/ML,2024-05-26,complete,certified,South-East
+3MTT-F00720,Ekene,Ojo,Jigawa,ALC-014,4,Cloud Computing,2024-05-26,complete,certified,North-West
+3MTT-F00718,Umar,Musa,Imo,ALC-044,3,DevOps,2024-05-26,incomplete,not certified,South-East
+3MTT-F01048,Suleiman,Aliyu,Enugu,ALC-048,3,UI/UX Design,2024-05-27,complete,not certified,South-East
+3MTT-F00866,Ifeanyi,Badmus,Osun,ALC-018,3,Cybersecurity,2024-05-27,complete,certified,South-West
+3MTT-F00538,Zainab,Adeyemi,Edo,ALC-041,3,Cloud Computing,2024-05-27,complete,certified,South-South
+3MTT-F01098,Kayode,Badmus,Cross River,ALC-010,4,Software Development,2024-05-27,complete,not certified,South-South
+3MTT-F00858,Nneka,Adegoke,Kwara,ALC-026,4,Software Development,2024-05-27,complete,not certified,North-East
+3MTT-F00028,Chinwe,Aliyu,Niger,ALC-045,4,Product Management,2024-05-27,complete,certified,North-Central
+3MTT-F01128,Chinwe,Hassan,Kano,ALC-004,3,Product Management,2024-05-28,incomplete,not certified,North-West
+3MTT-F00868,Umar,Ike,Enugu,ALC-048,4,AI/ML,2024-05-28,complete,certified,South-East
+3MTT-F00319,Obinna,Ibrahim,Zamfara,ALC-003,4,UI/UX Design,2024-05-28,complete,not certified,North-West
+3MTT-F00014,Bola,Effiong,Bauchi,ALC-006,3,UI/UX Design,2024-05-29,incomplete,not certified,North-East
+3MTT-F00085,Nneka,Abubakar,Plateau,ALC-007,3,Software Development,2024-05-29,complete,certified,North-Central
+3MTT-F00043,Halima,Ojo,Adamawa,ALC-043,3,AI/ML,2024-05-29,complete,certified,North-East
+3MTT-F00223,Yusuf,Adegoke,Benue,ALC-017,4,UI/UX Design,2024-05-29,incomplete,not certified,North-Central
+3MTT-F01058,Adaeze,Hassan,Plateau,ALC-007,3,Data Analysis,2024-05-30,incomplete,not certified,North-Central
+3MTT-F00096,Obinna,Afolabi,Delta,ALC-023,3,DevOps,2024-05-30,complete,not certified,South-South
+3MTT-F00911,Halima,Nwachukwu,Lagos,ALC-016,3,UI/UX Design,2024-05-30,complete,certified,South-West
+3MTT-F01052,Grace,Olawale,Oyo,ALC-049,3,Cloud Computing,2024-05-31,incomplete,not certified,South-West
+3MTT-F00317,Halima,Abubakar,Osun,ALC-018,3,Data Analysis,2024-05-31,incomplete,not certified,South-West
+3MTT-F00348,Maryam,Yakubu,Gombe,ALC-026,3,Data Analysis,2024-05-31,incomplete,not certified,North-East
+3MTT-F00264,Chukwuemeka,Adeyemi,Niger,ALC-013,3,UI/UX Design,2024-05-31,complete,certified,North-Central
+3MTT-F00551,Halima,Musa,Osun,ALC-046,3,DevOps,2024-05-31,complete,certified,South-West
+3MTT-F00291,Oluwafemi,Musa,Imo,ALC-035,3,Product Management,2024-05-31,complete,certified,South-East
+3MTT-F00674,Temitope,Adegoke,Jigawa,ALC-031,4,UI/UX Design,2024-06-01,complete,certified,North-West
+3MTT-F00281,Umar,Abubakar,Kaduna,ALC-015,4,Data Analysis,2024-06-01,complete,certified,North-West
+3MTT-F00553,Zainab,Effiong,Oyo,ALC-049,3,Product Management,2024-06-01,incomplete,not certified,South-West
+3MTT-F00711,Nnamdi,Adegoke,Cross River,ALC-027,4,Product Management,2024-06-01,complete,certified,South-South
+3MTT-F00575,Chiamaka,Eze,Adamawa,ALC-043,4,AI/ML,2024-06-02,incomplete,not certified,North-East
+3MTT-F00785,Segun,Adegoke,Niger,ALC-009,4,Cybersecurity,2024-06-02,complete,certified,North-Central
+3MTT-F00831,Chiamaka,Effiong,Plateau,ALC-036,4,UI/UX Design,2024-06-02,complete,not certified,North-Central
+3MTT-F00792,Halima,Bello,Ebonyi,ALC-037,3,Cloud Computing,2024-06-02,complete,certified,South-East
+3MTT-F00114,Yusuf,Ojo,Benue,ALC-017,4,Data Analysis,2024-06-03,complete,not certified,North-Central
+3MTT-F00963,Chiamaka,Garba,Abia,ALC-028,4,Data Analysis,2024-06-03,complete,certified,South-East
+3MTT-F00673,Zainab,Ike,Kebbi,ALC-003,3,Software Development,2024-06-03,complete,not certified,North-West
+3MTT-F01077,Segun,Adegoke,Abia,ALC-020,3,DevOps,2024-06-03,incomplete,not certified,South-West
+3MTT-F00547,Dele,Aliyu,Enugu,ALC-048,4,Product Management,2024-06-03,complete,not certified,South-East
+3MTT-F01057,Chinwe,Sule,Niger,ALC-045,3,DevOps,2024-06-04,complete,certified,North-Central
+3MTT-F00423,Umar,Nwachukwu,Rivers,ALC-005,4,Cloud Computing,2024-06-04,complete,not certified,North-West
+3MTT-F00092,Nnamdi,Sule,Taraba,ALC-031,4,Software Development,2024-06-05,complete,certified,North-West
+3MTT-F01019,Nneka,Okonkwo,Delta,ALC-UNKNOWN,4,Software Development,2024-06-05,incomplete,not certified,
+3MTT-F00846,Suleiman,Garba,Rivers,ALC-044,3,DevOps,2024-06-05,incomplete,not certified,South-East
+3MTT-F00228,Temitope,Yakubu,Rivers,ALC-013,3,Cloud Computing,2024-06-05,complete,certified,North-Central
+3MTT-F00457,Nnamdi,Olawale,Abia,ALC-016,4,Product Management,2024-06-05,complete,certified,South-West
+3MTT-F00503,Suleiman,Abubakar,Taraba,ALC-042,3,UI/UX Design,2024-06-06,incomplete,not certified,South-West
+3MTT-F00410,Segun,Hassan,Anambra,ALC-032,4,Software Development,2024-06-06,incomplete,not certified,South-East
+3MTT-F00073,Segun,Aliyu,Ebonyi,ALC-038,4,Data Analysis,2024-06-06,incomplete,not certified,South-East
+3MTT-F00172,Dele,Ike,Oyo,ALC-049,4,Product Management,2024-06-07,incomplete,not certified,South-West
+3MTT-F00681,Bola,Adegoke,Rivers,ALC-030,3,Cybersecurity,2024-06-07,incomplete,not certified,North-East
+3MTT-F00355,Temitope,Anyanwu,Akwa Ibom,ALC-005,4,Software Development,2024-06-07,incomplete,not certified,North-West
+3MTT-F01081,Babatunde,Afolabi,Akwa Ibom,ALC-005,4,Product Management,2024-06-07,incomplete,not certified,North-West
+3MTT-F00267,Halima,Lawal,Akwa Ibom,ALC-016,4,Cloud Computing,2024-06-07,complete,certified,South-West
+3MTT-F01104,Chukwuemeka,Musa,Ekiti,ALC-007,4,AI/ML,2024-06-07,complete,certified,North-Central
+3MTT-F00771,Nneka,Afolabi,Kwara,ALC-010,4,Cloud Computing,2024-06-08,complete,certified,South-South
+3MTT-F00188,Nnamdi,Anyanwu,Katsina,ALC-039,3,Cloud Computing,2024-06-09,complete,certified,North-West
+3MTT-F00024,Zainab,Hassan,Imo,ALC-044,4,DevOps,2024-06-09,complete,not certified,South-East
+3MTT-F00641,Bola,Bello,Delta,ALC-023,4,Cybersecurity,2024-06-09,complete,certified,South-South
+3MTT-F00407,Halima,Effiong,Plateau,ALC-036,3,Cloud Computing,2024-06-09,incomplete,not certified,North-Central
+3MTT-F00473,Suleiman,Bello,Yobe,ALC-050,3,Cloud Computing,2024-06-09,incomplete,not certified,North-East
+3MTT-F00786,Chukwuemeka,Lawal,Yobe,ALC-019,4,Cloud Computing,2024-06-11,incomplete,not certified,North-East
+3MTT-F00152,Ifeanyi,Musa,Oyo,ALC-049,4,DevOps,2024-06-11,complete,certified,South-West
+3MTT-F00506,Oluwafemi,Olawale,Enugu,ALC-048,3,AI/ML,2024-06-11,complete,certified,South-East
+3MTT-F01141,Segun,Eze,Kebbi,ALC-029,3,Product Management,2024-06-11,complete,certified,North-West
+3MTT-F00884,Chiamaka,Lawal,Ekiti,ALC-034,3,Cybersecurity,2024-06-11,complete,certified,North-Central
+3MTT-F00362,Kayode,Afolabi,Cross River,ALC-010,3,AI/ML,2024-06-12,complete,certified,South-South
+3MTT-F00654,Umar,Anyanwu,Nasarawa,ALC-051,3,Product Management,2024-06-12,complete,certified,North-Central
+3MTT-F00571,Adaeze,Abubakar,Zamfara,ALC-001,4,AI/ML,2024-06-12,incomplete,not certified,North-East
+3MTT-F00716,Oluwafemi,Nwachukwu,Adamawa,ALC-001,4,DevOps,2024-06-13,incomplete,not certified,North-East
+3MTT-F00930,Suleiman,Adegoke,Zamfara,ALC-UNKNOWN,4,Product Management,2024-06-13,complete,certified,
+3MTT-F01115,Nnamdi,Adegoke,Sokoto,ALC-054,4,Product Management,2024-06-13,complete,certified,North-West
+3MTT-F00590,Zainab,Garba,Nasarawa,ALC-051,4,DevOps,2024-06-14,incomplete,not certified,North-Central
+3MTT-F00750,Nnamdi,Chukwu,Gombe,ALC-026,3,Cybersecurity,2024-06-14,incomplete,not certified,North-East
+3MTT-F00776,Yusuf,Adegoke,Ondo,ALC-042,4,Cybersecurity,2024-06-14,complete,certified,South-West
+3MTT-F00425,Kayode,Ojo,Bauchi,ALC-006,4,Data Analysis,2024-06-14,complete,certified,North-East
+3MTT-F00373,Chiamaka,Bello,Kogi,ALC-052,3,Software Development,2024-06-14,complete,not certified,North-Central
+3MTT-F00758,Bola,Abubakar,Imo,ALC-044,3,UI/UX Design,2024-06-14,complete,certified,South-East
+3MTT-F00830,Kayode,Okafor,Sokoto,ALC-054,3,Software Development,2024-06-15,incomplete,not certified,North-West
+3MTT-F01117,Grace,Musa,Abuja,ALC-025,4,Product Management,2024-06-15,complete,certified,North-Central
+3MTT-F00395,Ekene,Abubakar,Osun,ALC-046,4,DevOps,2024-06-15,complete,certified,South-West
+3MTT-F00880,Temitope,Hassan,Sokoto,ALC-047,3,Cybersecurity,2024-06-15,complete,certified,North-West
+3MTT-F00209,Nneka,Badmus,Rivers,ALC-016,4,Product Management,2024-06-15,complete,certified,South-West
+3MTT-F00010,Dele,Chukwu,Lagos,ALC-016,3,UI/UX Design,2024-06-15,incomplete,not certified,South-West
+3MTT-F00841,Amina,Garba,Kwara,ALC-006,4,Software Development,2024-06-15,incomplete,not certified,North-East
+3MTT-F00688,Fatima,Lawal,Yobe,ALC-019,4,Product Management,2024-06-16,incomplete,not certified,North-East
+3MTT-F00402,Segun,Bello,Oyo,ALC-049,4,Cybersecurity,2024-06-16,complete,not certified,South-West
+3MTT-F00997,Kayode,Olawale,Bauchi,ALC-006,3,Data Analysis,2024-06-16,complete,certified,North-East
+3MTT-F00259,Ekene,Ojo,Borno,ALC-030,4,Cybersecurity,2024-06-16,complete,certified,North-East
+3MTT-F00261,Chiamaka,Okafor,Bayelsa,ALC-021,3,UI/UX Design,2024-06-16,complete,certified,South-South
+3MTT-F00555,Chukwuemeka,Olawale,Bauchi,ALC-006,4,Software Development,2024-06-16,complete,not certified,North-East
+3MTT-F00112,Umar,Badmus,Nasarawa,ALC-051,4,Cloud Computing,2024-06-16,complete,certified,North-Central
+3MTT-F00978,Obinna,Bello,Edo,ALC-041,4,DevOps,2024-06-16,complete,certified,South-South
+3MTT-F00865,Fatima,Garba,Abuja,ALC-025,4,Cybersecurity,2024-06-17,incomplete,not certified,North-Central
+3MTT-F00918,Kayode,Ojo,Akwa Ibom,ALC-050,3,Cybersecurity,2024-06-17,complete,certified,North-East
+3MTT-F00794,Halima,Ibrahim,Ondo,ALC-020,4,AI/ML,2024-06-17,complete,certified,South-West
+3MTT-F00179,Nnamdi,Chukwu,Adamawa,ALC-043,3,DevOps,2024-06-17,complete,certified,North-East
+3MTT-F00632,Nnamdi,Ojo,Abia,ALC-027,4,Cloud Computing,2024-06-18,complete,not certified,South-South
+3MTT-F01144,Temitope,Afolabi,Lagos,ALC-016,4,Cloud Computing,2024-06-18,incomplete,not certified,South-West
+3MTT-F00724,Nnamdi,Adeyemi,Adamawa,ALC-043,4,AI/ML,2024-06-18,complete,certified,North-East
+3MTT-F00770,Chiamaka,Garba,Zamfara,ALC-037,3,Cloud Computing,2024-06-19,complete,certified,South-East
+3MTT-F01108,Temitope,Effiong,Kebbi,ALC-024,3,AI/ML,2024-06-19,complete,certified,North-West
+3MTT-F00076,Zainab,Ike,Akwa Ibom,ALC-045,3,AI/ML,2024-06-19,complete,certified,North-Central
+3MTT-F00249,Kayode,Aliyu,Oyo,ALC-049,4,Data Analysis,2024-06-20,incomplete,not certified,South-West
+3MTT-F00660,Yusuf,Okonkwo,Sokoto,ALC-054,3,Software Development,2024-06-20,complete,certified,North-West
+3MTT-F00159,Halima,Lawal,Kwara,ALC-023,3,Software Development,2024-06-21,complete,certified,South-South
+3MTT-F00345,Grace,Okafor,Akwa Ibom,ALC-038,3,Data Analysis,2024-06-21,incomplete,not certified,South-East
+3MTT-F00171,Chiamaka,Eze,Delta,ALC-023,3,AI/ML,2024-06-21,incomplete,not certified,South-South
+3MTT-F00116,Chukwuemeka,Adegoke,Bauchi,ALC-006,3,AI/ML,2024-06-21,incomplete,not certified,North-East
+3MTT-F00015,Halima,Badmus,Ondo,ALC-042,3,DevOps,2024-06-22,complete,certified,South-West
+3MTT-F00670,Fatima,Chukwu,Imo,ALC-035,3,Software Development,2024-06-22,incomplete,not certified,South-East
+3MTT-F01073,Ekene,Ojo,Oyo,ALC-UNKNOWN,3,Data Analysis,2024-06-23,incomplete,not certified,
+3MTT-F00213,Dele,Badmus,Kano,ALC-004,4,DevOps,2024-06-23,complete,certified,North-West
+3MTT-F00561,Umar,Chukwu,Gombe,ALC-026,3,Product Management,2024-06-23,complete,certified,North-East
+3MTT-F00476,Chukwuemeka,Okonkwo,Imo,ALC-044,4,Cloud Computing,2024-06-23,incomplete,not certified,South-East
+3MTT-F00916,Adaeze,Aliyu,Bayelsa,ALC-UNKNOWN,4,Cybersecurity,2024-06-23,incomplete,not certified,
+3MTT-F00491,Zainab,Okonkwo,Delta,ALC-023,4,Software Development,2024-06-24,complete,certified,South-South
+3MTT-F00029,Oluwafemi,Okonkwo,Bauchi,ALC-006,4,DevOps,2024-06-24,incomplete,not certified,North-East
+3MTT-F00986,Chinwe,Bello,Ondo,ALC-020,4,UI/UX Design,2024-06-25,complete,not certified,South-West
+3MTT-F00106,Chiamaka,Abubakar,Niger,ALC-034,4,Data Analysis,2024-06-25,complete,not certified,North-Central
+3MTT-F00631,Suleiman,Ojo,Osun,ALC-018,3,Data Analysis,2024-06-25,incomplete,not certified,South-West
+3MTT-F00340,Ekene,Effiong,Ogun,ALC-001,4,AI/ML,2024-06-25,complete,not certified,North-East
+3MTT-F00287,Temitope,Badmus,Imo,ALC-035,4,AI/ML,2024-06-25,complete,certified,South-East
+3MTT-F00388,Oluwafemi,Afolabi,Nasarawa,ALC-051,4,AI/ML,2024-06-26,complete,not certified,North-Central
+3MTT-F00258,Ifeanyi,Okafor,Lagos,ALC-016,3,Cloud Computing,2024-06-26,complete,certified,South-West
+3MTT-F00610,Dele,Afolabi,Kwara,ALC-020,3,UI/UX Design,2024-06-26,complete,certified,South-West
+3MTT-F00323,Yusuf,Hassan,Bauchi,ALC-006,3,Product Management,2024-06-27,incomplete,not certified,North-East
+3MTT-F00593,Oluwafemi,Bello,Sokoto,ALC-UNKNOWN,4,Cybersecurity,2024-06-27,complete,certified,
+3MTT-F00321,Temitope,Lawal,Ondo,ALC-020,3,Cloud Computing,2024-06-28,incomplete,not certified,South-West
+3MTT-F00589,Umar,Chukwu,Yobe,ALC-019,4,Cybersecurity,2024-06-28,incomplete,not certified,North-East
+3MTT-F00071,Oluwafemi,Aliyu,Edo,ALC-041,4,DevOps,2024-06-28,incomplete,not certified,South-South
+3MTT-F00327,Ifeanyi,Abubakar,Jigawa,ALC-031,4,Cybersecurity,2024-06-28,incomplete,not certified,North-West
+3MTT-F00745,Ifeanyi,Okafor,Nasarawa,ALC-051,4,Software Development,2024-06-29,complete,certified,North-Central
+3MTT-F00583,Ekene,Ibrahim,Adamawa,ALC-001,4,Product Management,2024-06-29,complete,certified,North-East
+3MTT-F01147,Zainab,Aliyu,Abuja,ALC-025,4,Cybersecurity,2024-06-29,complete,certified,North-Central
+3MTT-F00680,Chiamaka,Ibrahim,Akwa Ibom,ALC-012,4,AI/ML,2024-06-29,complete,certified,North-Central
+3MTT-F00046,Suleiman,Eze,Lagos,ALC-016,4,Product Management,2024-06-30,complete,certified,South-West
+3MTT-F00247,Obinna,Ibrahim,Oyo,ALC-049,3,UI/UX Design,2024-06-30,incomplete,not certified,South-West
+3MTT-F00987,Umar,Nwosu,Ondo,ALC-020,3,DevOps,2024-06-30,complete,certified,South-West
+3MTT-F00117,Nneka,Eze,Bauchi,ALC-006,4,Cybersecurity,2024-06-30,incomplete,not certified,North-East
+3MTT-F00166,Fatima,Afolabi,Niger,ALC-034,4,Software Development,2024-07-01,incomplete,not certified,North-Central
+3MTT-F00876,Nnamdi,Chukwu,Edo,ALC-041,3,DevOps,2024-07-01,incomplete,not certified,South-South
+3MTT-F00874,Fatima,Ibrahim,Ekiti,ALC-044,3,Product Management,2024-07-01,complete,certified,South-East
+3MTT-F00280,Maryam,Ike,Niger,ALC-045,4,Data Analysis,2024-07-02,complete,not certified,North-Central
+3MTT-F00057,Babatunde,Effiong,Nasarawa,ALC-051,4,Product Management,2024-07-02,complete,certified,North-Central
+3MTT-F00483,Yusuf,Chukwu,Kaduna,ALC-015,4,DevOps,2024-07-02,complete,certified,North-West
+3MTT-F00045,Maryam,Ojo,Enugu,ALC-048,3,Cloud Computing,2024-07-02,complete,certified,South-East
+3MTT-F00093,Nneka,Anyanwu,Rivers,ALC-023,4,Product Management,2024-07-03,complete,certified,South-South
+3MTT-F00896,Segun,Effiong,Oyo,ALC-049,3,Product Management,2024-07-03,complete,certified,South-West
+3MTT-F00659,Babatunde,Okonkwo,Bayelsa,ALC-021,3,UI/UX Design,2024-07-03,complete,not certified,South-South
+3MTT-F00625,Adaeze,Garba,Kogi,ALC-011,4,AI/ML,2024-07-03,complete,certified,North-Central
+3MTT-F00127,Ekene,Eze,Jigawa,ALC-014,3,Software Development,2024-07-03,complete,certified,North-West
+3MTT-F00072,Nneka,Sule,Kano,ALC-004,4,UI/UX Design,2024-07-05,complete,not certified,North-West
+3MTT-F01080,Halima,Yakubu,Benue,ALC-017,4,Product Management,2024-07-05,complete,certified,North-Central
+3MTT-F00560,Kayode,Adeyemi,Edo,ALC-041,3,Software Development,2024-07-05,complete,certified,South-South
+3MTT-F01001,Yusuf,Olawale,Ekiti,ALC-052,4,Cloud Computing,2024-07-06,complete,certified,North-Central
+3MTT-F00675,Chukwuemeka,Nwosu,Gombe,ALC-026,4,Data Analysis,2024-07-06,incomplete,not certified,North-East
+3MTT-F00454,Segun,Afolabi,Ogun,ALC-050,3,Software Development,2024-07-06,incomplete,not certified,North-East
+3MTT-F00540,Obinna,Hassan,Imo,ALC-044,3,DevOps,2024-07-06,incomplete,not certified,South-East
+3MTT-F00210,Ifeanyi,Afolabi,Rivers,ALC-030,3,AI/ML,2024-07-07,incomplete,not certified,North-East
+3MTT-F00100,Dele,Aliyu,Nasarawa,ALC-051,4,Data Analysis,2024-07-07,incomplete,not certified,North-Central
+3MTT-F00461,Chinwe,Badmus,Lagos,ALC-016,4,AI/ML,2024-07-07,complete,certified,South-West
+3MTT-F01035,Fatima,Okafor,Benue,ALC-002,4,UI/UX Design,2024-07-08,complete,certified,North-Central
+3MTT-F00033,Umar,Ike,Kebbi,ALC-024,3,DevOps,2024-07-08,complete,certified,North-West
+3MTT-F00952,Segun,Badmus,Cross River,ALC-010,4,Cloud Computing,2024-07-08,complete,not certified,South-South
+3MTT-F00230,Suleiman,Lawal,Adamawa,ALC-043,4,Data Analysis,2024-07-09,incomplete,not certified,North-East
+3MTT-F00260,Fatima,Olawale,Cross River,ALC-027,3,AI/ML,2024-07-09,incomplete,not certified,South-South
+3MTT-F00470,Suleiman,Afolabi,Yobe,ALC-UNKNOWN,4,Cybersecurity,2024-07-09,incomplete,not certified,
+3MTT-F00570,Segun,Sule,Abuja,ALC-025,3,DevOps,2024-07-09,complete,certified,North-Central
+3MTT-F00899,Nneka,Lawal,Rivers,ALC-008,4,UI/UX Design,2024-07-10,complete,certified,South-West
+3MTT-F00205,Dele,Lawal,Abia,ALC-046,3,Software Development,2024-07-10,incomplete,not certified,South-West
+3MTT-F00455,Suleiman,Abubakar,Cross River,ALC-010,4,Data Analysis,2024-07-10,complete,certified,South-South
+3MTT-F00537,Umar,Okafor,Niger,ALC-034,4,UI/UX Design,2024-07-10,incomplete,not certified,North-Central
+3MTT-F00484,Bola,Chukwu,Osun,ALC-018,3,UI/UX Design,2024-07-10,complete,not certified,South-West
+3MTT-F00155,Nnamdi,Nwosu,Ogun,ALC-033,3,UI/UX Design,2024-07-11,complete,not certified,North-Central
+3MTT-F01046,Chiamaka,Nwachukwu,Yobe,ALC-050,4,AI/ML,2024-07-11,incomplete,not certified,North-East
+3MTT-F00803,Grace,Aliyu,Jigawa,ALC-014,3,AI/ML,2024-07-12,complete,certified,North-West
+3MTT-F00165,Fatima,Olawale,Anambra,ALC-UNKNOWN,3,Cybersecurity,2024-07-12,complete,certified,
+3MTT-F00512,Halima,Sule,Imo,ALC-035,4,DevOps,2024-07-13,incomplete,not certified,South-East
+3MTT-F00181,Fatima,Hassan,Sokoto,ALC-054,3,Software Development,2024-07-13,complete,certified,North-West
+3MTT-F00471,Fatima,Afolabi,Lagos,ALC-016,3,Product Management,2024-07-13,complete,certified,South-West
+3MTT-F00906,Yusuf,Abubakar,Ekiti,ALC-017,4,Cloud Computing,2024-07-14,incomplete,not certified,North-Central
+3MTT-F00372,Umar,Badmus,Imo,ALC-044,3,Cybersecurity,2024-07-14,complete,certified,South-East
+3MTT-F00973,Obinna,Musa,Yobe,ALC-019,4,UI/UX Design,2024-07-14,complete,certified,North-East
+3MTT-F00289,Ifeanyi,Olawale,Plateau,ALC-007,3,Data Analysis,2024-07-14,complete,certified,North-Central
+3MTT-F01121,Adaeze,Garba,Delta,ALC-023,3,UI/UX Design,2024-07-14,incomplete,not certified,South-South
+3MTT-F00814,Kayode,Sule,Kebbi,ALC-029,4,Cloud Computing,2024-07-15,complete,certified,North-West
+3MTT-F00379,Adaeze,Afolabi,Taraba,ALC-016,4,AI/ML,2024-07-16,incomplete,not certified,South-West
+3MTT-F00904,Halima,Hassan,Jigawa,ALC-014,3,Cybersecurity,2024-07-16,incomplete,not certified,North-West
+3MTT-F00755,Oluwafemi,Okonkwo,Bayelsa,ALC-021,3,DevOps,2024-07-16,complete,certified,South-South
+3MTT-F01021,Fatima,Abubakar,Kebbi,ALC-003,4,UI/UX Design,2024-07-16,complete,certified,North-West
+3MTT-F00492,Maryam,Lawal,Kogi,ALC-052,3,Cloud Computing,2024-07-16,incomplete,not certified,North-Central
+3MTT-F00924,Amina,Effiong,Plateau,ALC-033,3,Software Development,2024-07-17,complete,certified,North-Central
+3MTT-F00557,Umar,Garba,Anambra,ALC-032,4,Data Analysis,2024-07-17,complete,not certified,South-East
+3MTT-F00415,Umar,Garba,Kogi,ALC-040,3,DevOps,2024-07-17,incomplete,not certified,North-Central
+3MTT-F00808,Zainab,Ojo,Ogun,ALC-009,4,Data Analysis,2024-07-17,incomplete,not certified,North-Central
+3MTT-F00012,Temitope,Okafor,Ekiti,ALC-002,3,Data Analysis,2024-07-18,incomplete,not certified,North-Central
+3MTT-F00848,Fatima,Ibrahim,Katsina,ALC-039,4,UI/UX Design,2024-07-18,incomplete,not certified,North-West
+3MTT-F00167,Ifeanyi,Yakubu,Cross River,ALC-027,3,DevOps,2024-07-18,complete,not certified,South-South
+3MTT-F00131,Dele,Okafor,Nasarawa,ALC-051,4,Data Analysis,2024-07-18,complete,certified,North-Central
+3MTT-F00037,Chukwuemeka,Garba,Bauchi,ALC-006,4,UI/UX Design,2024-07-19,incomplete,not certified,North-East
+3MTT-F01135,Fatima,Okonkwo,Taraba,ALC-017,4,Cybersecurity,2024-07-19,complete,certified,North-Central
+3MTT-F00743,Ifeanyi,Chukwu,Gombe,ALC-026,3,DevOps,2024-07-19,complete,certified,North-East
+3MTT-F00170,Obinna,Chukwu,Delta,ALC-023,4,Cloud Computing,2024-07-19,complete,certified,South-South
+3MTT-F01120,Umar,Ibrahim,Akwa Ibom,ALC-024,4,DevOps,2024-07-19,complete,certified,North-West
+3MTT-F00439,Chukwuemeka,Olawale,Lagos,ALC-016,3,Cloud Computing,2024-07-20,incomplete,not certified,South-West
+3MTT-F00309,Umar,Hassan,Oyo,ALC-049,3,DevOps,2024-07-20,complete,certified,South-West
+3MTT-F00477,Zainab,Ojo,Yobe,ALC-050,3,UI/UX Design,2024-07-21,incomplete,not certified,North-East
+3MTT-F00222,Amina,Adegoke,Rivers,ALC-053,3,Cloud Computing,2024-07-21,complete,certified,North-West
+3MTT-F00190,Dele,Aliyu,Ekiti,ALC-045,4,Software Development,2024-07-21,incomplete,not certified,North-Central
+3MTT-F00356,Temitope,Ojo,Osun,ALC-046,3,UI/UX Design,2024-07-21,complete,certified,South-West
+3MTT-F00862,Oluwafemi,Okonkwo,Kano,ALC-004,3,DevOps,2024-07-22,complete,certified,North-West
+3MTT-F00509,Dele,Garba,Kaduna,ALC-005,4,Product Management,2024-07-22,complete,certified,North-West
+3MTT-F00211,Chinwe,Badmus,Ebonyi,ALC-038,3,Software Development,2024-07-22,complete,certified,South-East
+3MTT-F00781,Halima,Garba,Akwa Ibom,ALC-010,4,Cloud Computing,2024-07-22,complete,certified,South-South
+3MTT-F00929,Suleiman,Ibrahim,Bayelsa,ALC-021,3,AI/ML,2024-07-22,complete,certified,South-South
+3MTT-F00399,Obinna,Badmus,Taraba,ALC-024,4,Cloud Computing,2024-07-22,complete,certified,North-West
+3MTT-F00552,Obinna,Musa,Cross River,ALC-010,4,Cybersecurity,2024-07-23,complete,certified,South-South
+3MTT-F00601,Grace,Anyanwu,Ebonyi,ALC-038,4,UI/UX Design,2024-07-23,complete,certified,South-East
+3MTT-F00921,Maryam,Bello,Lagos,ALC-016,3,Software Development,2024-07-23,complete,certified,South-West
+3MTT-F00763,Dele,Ibrahim,Kebbi,ALC-003,3,DevOps,2024-07-23,complete,certified,North-West
+3MTT-F00383,Fatima,Olawale,Ogun,ALC-024,3,Software Development,2024-07-24,incomplete,not certified,North-West
+3MTT-F01078,Suleiman,Afolabi,Jigawa,ALC-031,4,UI/UX Design,2024-07-25,complete,not certified,North-West
+3MTT-F00296,Halima,Ibrahim,Oyo,ALC-049,4,UI/UX Design,2024-07-25,complete,certified,South-West
+3MTT-F01059,Yusuf,Aliyu,Plateau,ALC-007,3,DevOps,2024-07-25,complete,not certified,North-Central
+3MTT-F01103,Maryam,Musa,Plateau,ALC-033,3,Cloud Computing,2024-07-26,incomplete,not certified,North-Central
+3MTT-F00991,Halima,Aliyu,Jigawa,ALC-031,4,Software Development,2024-07-26,complete,not certified,North-West
+3MTT-F01040,Dele,Chukwu,Niger,ALC-034,4,Product Management,2024-07-26,complete,certified,North-Central
+3MTT-F00822,Temitope,Anyanwu,Akwa Ibom,ALC-017,4,Data Analysis,2024-07-26,complete,certified,North-Central
+3MTT-F00252,Fatima,Abubakar,Enugu,ALC-048,4,Cybersecurity,2024-07-26,complete,certified,South-East
+3MTT-F00511,Oluwafemi,Ike,Katsina,ALC-039,4,Cloud Computing,2024-07-26,complete,certified,North-West
+3MTT-F01042,Kayode,Abubakar,Osun,ALC-018,4,DevOps,2024-07-27,complete,certified,South-West
+3MTT-F01131,Nnamdi,Okafor,Yobe,ALC-019,3,UI/UX Design,2024-07-27,complete,certified,North-East
+3MTT-F00001,Halima,Musa,Niger,ALC-013,3,AI/ML,2024-07-27,complete,certified,North-Central
+3MTT-F00279,Nnamdi,Okonkwo,Kogi,ALC-011,4,Cybersecurity,2024-07-27,complete,certified,North-Central
+3MTT-F00686,Chukwuemeka,Adeyemi,Akwa Ibom,ALC-005,3,UI/UX Design,2024-07-27,complete,certified,North-West
+3MTT-F00550,Bola,Aliyu,Abuja,ALC-025,3,Cybersecurity,2024-07-27,complete,certified,North-Central
+3MTT-F00493,Chiamaka,Musa,Niger,ALC-034,4,UI/UX Design,2024-07-28,complete,certified,North-Central
+3MTT-F00103,Nnamdi,Nwosu,Abia,ALC-048,4,DevOps,2024-07-28,complete,certified,South-East
+3MTT-F01087,Halima,Okonkwo,Imo,ALC-035,4,Software Development,2024-07-28,complete,certified,South-East
+3MTT-F00040,Chiamaka,Okafor,Kebbi,ALC-003,3,UI/UX Design,2024-07-28,incomplete,not certified,North-West
+3MTT-F01041,Temitope,Chukwu,Borno,ALC-030,3,Cybersecurity,2024-07-28,complete,certified,North-East
+3MTT-F00485,Maryam,Olawale,Kogi,ALC-052,4,Cloud Computing,2024-07-28,incomplete,not certified,North-Central
+3MTT-F00430,Suleiman,Nwosu,Rivers,ALC-013,3,UI/UX Design,2024-07-28,complete,certified,North-Central
+3MTT-F00819,Obinna,Badmus,Kogi,ALC-UNKNOWN,3,Data Analysis,2024-07-29,complete,not certified,
+3MTT-F00352,Nneka,Bello,Kogi,ALC-040,4,Product Management,2024-07-29,incomplete,not certified,North-Central
+3MTT-F00726,Kayode,Ibrahim,Taraba,ALC-036,3,AI/ML,2024-07-29,complete,certified,North-Central
+3MTT-F00051,Nnamdi,Afolabi,Edo,ALC-041,3,Data Analysis,2024-07-29,complete,certified,South-South
+3MTT-F00971,Bola,Chukwu,Kaduna,ALC-005,4,Software Development,2024-07-29,complete,certified,North-West
+3MTT-F01074,Ifeanyi,Yakubu,Zamfara,ALC-004,3,AI/ML,2024-07-31,incomplete,not certified,North-West
+3MTT-F01029,Segun,Nwosu,Katsina,ALC-039,4,AI/ML,2024-07-31,complete,not certified,North-West
+3MTT-F00163,Bola,Bello,Enugu,ALC-048,4,AI/ML,2024-07-31,complete,certified,South-East
+3MTT-F00183,Umar,Ojo,Imo,ALC-044,3,Data Analysis,2024-07-31,incomplete,not certified,South-East
+3MTT-F00956,Segun,Okonkwo,Ebonyi,ALC-038,4,Software Development,2024-07-31,complete,certified,South-East
+3MTT-F00310,Halima,Garba,Ogun,ALC-041,4,DevOps,2024-07-31,complete,certified,South-South
+3MTT-F00283,Kayode,Yakubu,Zamfara,ALC-011,3,Cybersecurity,2024-08-01,complete,certified,North-Central
+3MTT-F00709,Amina,Okonkwo,Ondo,ALC-008,4,Cloud Computing,2024-08-01,complete,certified,South-West
+3MTT-F01022,Obinna,Bello,Delta,ALC-023,3,Data Analysis,2024-08-01,incomplete,not certified,South-South
+3MTT-F00722,Yusuf,Sule,Kebbi,ALC-003,4,DevOps,2024-08-02,complete,certified,North-West
+3MTT-F00765,Temitope,Adeyemi,Edo,ALC-041,3,Software Development,2024-08-02,incomplete,not certified,South-South
+3MTT-F00386,Yusuf,Adegoke,Bauchi,ALC-006,3,Data Analysis,2024-08-02,incomplete,not certified,North-East
+3MTT-F00691,Kayode,Olawale,Benue,ALC-002,4,Product Management,2024-08-03,complete,certified,North-Central
+3MTT-F00849,Umar,Lawal,Delta,ALC-023,3,Software Development,2024-08-03,incomplete,not certified,South-South
+3MTT-F00612,Chiamaka,Adegoke,Kaduna,ALC-053,4,Data Analysis,2024-08-03,complete,certified,North-West
+3MTT-F00719,Suleiman,Abubakar,Nasarawa,ALC-051,3,Product Management,2024-08-03,complete,certified,North-Central
+3MTT-F01044,Halima,Olawale,Ekiti,ALC-UNKNOWN,4,DevOps,2024-08-04,incomplete,not certified,
+3MTT-F01075,Ifeanyi,Nwosu,Bauchi,ALC-006,3,Cloud Computing,2024-08-04,complete,not certified,North-East
+3MTT-F00572,Nnamdi,Olawale,Yobe,ALC-050,4,Product Management,2024-08-04,complete,certified,North-East
+3MTT-F00891,Oluwafemi,Nwosu,Ekiti,ALC-020,4,Cybersecurity,2024-08-04,incomplete,not certified,South-West
+3MTT-F00890,Chiamaka,Badmus,Cross River,ALC-010,3,Product Management,2024-08-04,complete,certified,South-South
+3MTT-F00120,Obinna,Garba,Osun,ALC-046,3,Cloud Computing,2024-08-04,complete,certified,South-West
+3MTT-F00196,Maryam,Okonkwo,Oyo,ALC-049,4,Cybersecurity,2024-08-05,complete,certified,South-West
+3MTT-F00529,Fatima,Ibrahim,Katsina,ALC-039,4,UI/UX Design,2024-08-05,incomplete,not certified,North-West
+3MTT-F00468,Temitope,Badmus,Bayelsa,ALC-021,4,Cybersecurity,2024-08-05,incomplete,not certified,South-South
+3MTT-F00998,Babatunde,Sule,Rivers,ALC-042,3,UI/UX Design,2024-08-05,complete,certified,South-West
+3MTT-F00236,Nneka,Ojo,Bayelsa,ALC-021,3,Cloud Computing,2024-08-05,incomplete,not certified,South-South
+3MTT-F00067,Babatunde,Adeyemi,Zamfara,ALC-037,4,UI/UX Design,2024-08-05,incomplete,not certified,South-East
+3MTT-F00879,Nneka,Olawale,Katsina,ALC-039,3,Product Management,2024-08-06,complete,not certified,North-West
+3MTT-F00189,Kayode,Anyanwu,Adamawa,ALC-043,4,Cybersecurity,2024-08-06,incomplete,not certified,North-East
+3MTT-F00004,Ekene,Afolabi,Kaduna,ALC-005,4,AI/ML,2024-08-07,complete,certified,North-West
+3MTT-F00343,Bola,Nwosu,Lagos,ALC-016,4,Cloud Computing,2024-08-07,complete,certified,South-West
+3MTT-F00023,Nneka,Olawale,Ekiti,ALC-031,3,Data Analysis,2024-08-07,incomplete,not certified,North-West
+3MTT-F01130,Suleiman,Effiong,Kaduna,ALC-005,3,Data Analysis,2024-08-07,complete,not certified,North-West
+3MTT-F00914,Nneka,Effiong,Niger,ALC-034,4,Data Analysis,2024-08-07,incomplete,not certified,North-Central
+3MTT-F00733,Ekene,Abubakar,Yobe,ALC-050,4,Cybersecurity,2024-08-07,complete,not certified,North-East
+3MTT-F00939,Adaeze,Anyanwu,Ondo,ALC-042,4,Product Management,2024-08-07,complete,certified,South-West
+3MTT-F00438,Suleiman,Eze,Ebonyi,ALC-037,3,Data Analysis,2024-08-08,complete,certified,South-East
+3MTT-F00813,Grace,Sule,Yobe,ALC-050,3,Cloud Computing,2024-08-08,complete,not certified,North-East
+3MTT-F01111,Grace,Okonkwo,Rivers,ALC-032,3,Product Management,2024-08-09,complete,certified,South-East
+3MTT-F00536,Grace,Afolabi,Akwa Ibom,ALC-023,4,Software Development,2024-08-09,complete,certified,South-South
+3MTT-F00047,Temitope,Eze,Imo,ALC-035,4,Product Management,2024-08-09,complete,certified,South-East
+3MTT-F00807,Maryam,Badmus,Cross River,ALC-010,3,Software Development,2024-08-10,complete,not certified,South-South
+3MTT-F00861,Adaeze,Lawal,Yobe,ALC-050,3,Cloud Computing,2024-08-11,incomplete,not certified,North-East
+3MTT-F00122,Chukwuemeka,Lawal,Nasarawa,ALC-051,4,DevOps,2024-08-11,complete,certified,North-Central
+3MTT-F00202,Oluwafemi,Nwosu,Rivers,ALC-034,4,AI/ML,2024-08-11,incomplete,not certified,North-Central
+3MTT-F00444,Chiamaka,Eze,Katsina,ALC-039,4,DevOps,2024-08-11,complete,certified,North-West
+3MTT-F01045,Maryam,Olawale,Zamfara,ALC-042,3,Cybersecurity,2024-08-11,incomplete,not certified,South-West
+3MTT-F00713,Obinna,Garba,Abuja,ALC-025,3,UI/UX Design,2024-08-12,complete,certified,North-Central
+3MTT-F00751,Chiamaka,Eze,Oyo,ALC-049,3,DevOps,2024-08-12,incomplete,not certified,South-West
+3MTT-F00322,Umar,Nwachukwu,Lagos,ALC-016,3,Cybersecurity,2024-08-12,incomplete,not certified,South-West
+3MTT-F00139,Yusuf,Effiong,Osun,ALC-046,3,Data Analysis,2024-08-12,complete,certified,South-West
+3MTT-F01051,Grace,Adeyemi,Lagos,ALC-016,4,Software Development,2024-08-12,incomplete,not certified,South-West
+3MTT-F00453,Nnamdi,Anyanwu,Rivers,ALC-032,3,Data Analysis,2024-08-12,complete,certified,South-East
+3MTT-F00233,Fatima,Yakubu,Kaduna,ALC-005,3,Cybersecurity,2024-08-13,complete,certified,North-West
+3MTT-F00886,Ekene,Aliyu,Lagos,ALC-016,4,AI/ML,2024-08-13,complete,certified,South-West
+3MTT-F00039,Ifeanyi,Effiong,Kano,ALC-004,3,UI/UX Design,2024-08-13,complete,certified,North-West
+3MTT-F00136,Amina,Ojo,Cross River,ALC-027,3,Software Development,2024-08-13,complete,certified,South-South
+3MTT-F00269,Grace,Nwosu,Jigawa,ALC-031,4,Data Analysis,2024-08-13,complete,not certified,North-West
+3MTT-F00528,Nneka,Garba,Akwa Ibom,ALC-049,3,DevOps,2024-08-13,complete,certified,South-West
+3MTT-F00406,Ekene,Yakubu,Abuja,ALC-025,3,Software Development,2024-08-14,complete,certified,North-Central
+3MTT-F00324,Yusuf,Adeyemi,Ekiti,ALC-UNKNOWN,4,Product Management,2024-08-14,complete,certified,
+3MTT-F00694,Segun,Chukwu,Bauchi,ALC-006,3,Product Management,2024-08-14,incomplete,not certified,North-East
+3MTT-F00901,Fatima,Nwachukwu,Bauchi,ALC-006,4,AI/ML,2024-08-15,incomplete,not certified,North-East
+3MTT-F00353,Ifeanyi,Aliyu,Kaduna,ALC-UNKNOWN,3,Software Development,2024-08-15,incomplete,not certified,
+3MTT-F00628,Temitope,Chukwu,Ogun,ALC-044,3,AI/ML,2024-08-15,complete,certified,South-East
+3MTT-F00888,Temitope,Anyanwu,Akwa Ibom,ALC-003,3,DevOps,2024-08-15,incomplete,not certified,North-West
+3MTT-F00374,Dele,Okafor,Kebbi,ALC-024,3,Data Analysis,2024-08-16,complete,not certified,North-West
+3MTT-F00390,Amina,Sule,Kwara,ALC-025,4,Product Management,2024-08-16,incomplete,not certified,North-Central
+3MTT-F01133,Nneka,Bello,Enugu,ALC-048,4,Data Analysis,2024-08-16,complete,not certified,South-East
+3MTT-F00144,Temitope,Ojo,Niger,ALC-013,4,AI/ML,2024-08-16,complete,certified,North-Central
+3MTT-F00964,Kayode,Eze,Kaduna,ALC-005,4,AI/ML,2024-08-17,complete,certified,North-West
+3MTT-F00839,Nneka,Aliyu,Ekiti,ALC-036,4,Cybersecurity,2024-08-18,complete,certified,North-Central
+3MTT-F00898,Umar,Nwachukwu,Kaduna,ALC-005,3,Product Management,2024-08-18,complete,certified,North-West
+3MTT-F00034,Chukwuemeka,Okonkwo,Katsina,ALC-039,3,AI/ML,2024-08-18,incomplete,not certified,North-West
+3MTT-F00965,Chinwe,Eze,Niger,ALC-009,3,Cybersecurity,2024-08-18,incomplete,not certified,North-Central
+3MTT-F00882,Bola,Musa,Oyo,ALC-049,3,Product Management,2024-08-18,incomplete,not certified,South-West
+3MTT-F00573,Bola,Afolabi,Kaduna,ALC-022,3,Cloud Computing,2024-08-18,complete,certified,North-West
+3MTT-F00250,Chukwuemeka,Adeyemi,Jigawa,ALC-014,3,DevOps,2024-08-18,complete,certified,North-West
+3MTT-F00021,Oluwafemi,Badmus,Yobe,ALC-050,3,Software Development,2024-08-18,complete,certified,North-East
+3MTT-F00524,Chinwe,Adeyemi,Imo,ALC-044,3,Cloud Computing,2024-08-19,complete,certified,South-East
+3MTT-F00488,Babatunde,Abubakar,Nasarawa,ALC-051,3,Product Management,2024-08-19,incomplete,not certified,North-Central
+3MTT-F01047,Chinwe,Sule,Kwara,ALC-042,4,Data Analysis,2024-08-19,incomplete,not certified,South-West
+3MTT-F00656,Dele,Adegoke,Rivers,ALC-047,4,AI/ML,2024-08-20,complete,certified,North-West
+3MTT-F00638,Grace,Olawale,Abia,ALC-030,3,AI/ML,2024-08-20,complete,certified,North-East
+3MTT-F01126,Grace,Okonkwo,Kwara,ALC-044,4,Product Management,2024-08-21,incomplete,not certified,South-East
+3MTT-F00752,Chinwe,Okafor,Edo,ALC-041,3,AI/ML,2024-08-21,incomplete,not certified,South-South
+3MTT-F00810,Chiamaka,Hassan,Kaduna,ALC-053,4,AI/ML,2024-08-21,complete,certified,North-West
+3MTT-F01060,Ifeanyi,Anyanwu,Rivers,ALC-049,4,UI/UX Design,2024-08-21,complete,certified,South-West
+3MTT-F00824,Halima,Bello,Anambra,ALC-032,3,UI/UX Design,2024-08-21,complete,certified,South-East
+3MTT-F00216,Halima,Yakubu,Sokoto,ALC-047,3,Product Management,2024-08-22,complete,certified,North-West
+3MTT-F01118,Dele,Nwosu,Ebonyi,ALC-037,3,Product Management,2024-08-22,complete,certified,South-East
+3MTT-F00294,Nnamdi,Chukwu,Anambra,ALC-032,4,Cybersecurity,2024-08-22,incomplete,not certified,South-East
+3MTT-F00801,Fatima,Ike,Nasarawa,ALC-051,4,Data Analysis,2024-08-22,complete,certified,North-Central
+3MTT-F00301,Chinwe,Ike,Oyo,ALC-049,4,UI/UX Design,2024-08-22,complete,certified,South-West
+3MTT-F00615,Oluwafemi,Ibrahim,Kano,ALC-004,4,Product Management,2024-08-22,complete,not certified,North-West
+3MTT-F00860,Bola,Eze,Ekiti,ALC-025,3,Cloud Computing,2024-08-22,incomplete,not certified,North-Central
+3MTT-F01008,Fatima,Sule,Bauchi,ALC-006,4,Cybersecurity,2024-08-23,incomplete,not certified,North-East
+3MTT-F00371,Kayode,Sule,Edo,ALC-041,3,Data Analysis,2024-08-23,incomplete,not certified,South-South
+3MTT-F00394,Babatunde,Eze,Benue,ALC-012,3,Product Management,2024-08-24,complete,certified,North-Central
+3MTT-F00684,Segun,Okafor,Anambra,ALC-UNKNOWN,4,Cybersecurity,2024-08-24,complete,certified,
+3MTT-F00437,Suleiman,Anyanwu,Ogun,ALC-039,4,DevOps,2024-08-24,incomplete,not certified,North-West
+3MTT-F01140,Dele,Okonkwo,Enugu,ALC-048,3,Cybersecurity,2024-08-25,complete,certified,South-East
+3MTT-F00829,Oluwafemi,Abubakar,Gombe,ALC-026,4,UI/UX Design,2024-08-25,complete,certified,North-East
+3MTT-F00031,Segun,Lawal,Enugu,ALC-048,3,Data Analysis,2024-08-26,incomplete,not certified,South-East
+3MTT-F00089,Segun,Olawale,Gombe,ALC-026,4,Cloud Computing,2024-08-26,complete,certified,North-East
+3MTT-F00587,Adaeze,Afolabi,Abia,ALC-036,4,Product Management,2024-08-26,incomplete,not certified,North-Central
+3MTT-F00257,Yusuf,Bello,Kano,ALC-004,4,Cybersecurity,2024-08-26,complete,certified,North-West
+3MTT-F00449,Umar,Ojo,Gombe,ALC-026,4,Software Development,2024-08-26,incomplete,not certified,North-East
+3MTT-F00907,Yusuf,Ibrahim,Borno,ALC-030,3,Software Development,2024-08-26,incomplete,not certified,North-East
+3MTT-F00335,Grace,Nwosu,Nasarawa,ALC-051,3,Product Management,2024-08-27,complete,certified,North-Central
+3MTT-F00707,Nneka,Eze,Bayelsa,ALC-021,3,AI/ML,2024-08-27,incomplete,not certified,South-South
+3MTT-F00084,Amina,Lawal,Ogun,ALC-025,4,Data Analysis,2024-08-28,complete,certified,North-Central
+3MTT-F00048,Dele,Sule,Abia,ALC-030,4,Cybersecurity,2024-08-28,incomplete,not certified,North-East
+3MTT-F00231,Babatunde,Eze,Sokoto,ALC-047,4,Cloud Computing,2024-08-28,complete,certified,North-West
+3MTT-F00035,Amina,Abubakar,Bauchi,ALC-006,3,Data Analysis,2024-08-28,incomplete,not certified,North-East
+3MTT-F00994,Halima,Adeyemi,Imo,ALC-035,3,Cloud Computing,2024-08-28,complete,certified,South-East
+3MTT-F00146,Dele,Ibrahim,Delta,ALC-023,4,AI/ML,2024-08-28,complete,certified,South-South
+3MTT-F01036,Chiamaka,Adeyemi,Imo,ALC-044,3,UI/UX Design,2024-08-28,complete,certified,South-East
+3MTT-F00411,Ifeanyi,Aliyu,Kaduna,ALC-015,4,Product Management,2024-08-28,incomplete,not certified,North-West
+3MTT-F01150,Ekene,Nwachukwu,Imo,ALC-044,3,Product Management,2024-08-28,complete,certified,South-East
+3MTT-F00566,Nneka,Okonkwo,Kaduna,ALC-015,4,Data Analysis,2024-08-28,complete,certified,North-West
+3MTT-F00957,Yusuf,Aliyu,Edo,ALC-041,3,AI/ML,2024-08-29,complete,certified,South-South
+3MTT-F00315,Adaeze,Yakubu,Bayelsa,ALC-021,4,UI/UX Design,2024-08-29,complete,certified,South-South
+3MTT-F01033,Ifeanyi,Nwosu,Jigawa,ALC-014,3,Cloud Computing,2024-08-29,incomplete,not certified,North-West
+3MTT-F00458,Obinna,Adeyemi,Kano,ALC-004,4,DevOps,2024-08-29,incomplete,not certified,North-West
+3MTT-F00782,Amina,Badmus,Delta,ALC-023,3,Cloud Computing,2024-08-29,incomplete,not certified,South-South
+3MTT-F01064,Grace,Chukwu,Enugu,ALC-048,4,Software Development,2024-08-29,complete,certified,South-East
+3MTT-F00992,Chinwe,Adegoke,Bauchi,ALC-006,4,Data Analysis,2024-08-29,incomplete,not certified,North-East
+3MTT-F00611,Ekene,Ike,Borno,ALC-030,4,Software Development,2024-08-30,incomplete,not certified,North-East
+3MTT-F00559,Kayode,Chukwu,Ebonyi,ALC-038,4,Cloud Computing,2024-08-30,incomplete,not certified,South-East
+3MTT-F00968,Chukwuemeka,Bello,Nasarawa,ALC-051,3,Product Management,2024-08-30,complete,certified,North-Central
+3MTT-F01039,Babatunde,Aliyu,Kano,ALC-004,4,DevOps,2024-08-31,incomplete,not certified,North-West
+3MTT-F00075,Oluwafemi,Lawal,Rivers,ALC-042,4,UI/UX Design,2024-08-31,incomplete,not certified,South-West
+3MTT-F00518,Chiamaka,Musa,Sokoto,ALC-047,3,UI/UX Design,2024-08-31,complete,certified,North-West
+3MTT-F00364,Amina,Ibrahim,Borno,ALC-030,3,AI/ML,2024-09-01,incomplete,not certified,North-East
+3MTT-F00175,Adaeze,Effiong,Cross River,ALC-010,3,Data Analysis,2024-09-01,incomplete,not certified,South-South
+3MTT-F00933,Suleiman,Ojo,Bauchi,ALC-006,4,AI/ML,2024-09-01,incomplete,not certified,North-East
+3MTT-F00195,Halima,Badmus,Imo,ALC-035,3,Software Development,2024-09-01,incomplete,not certified,South-East
+3MTT-F00993,Chiamaka,Anyanwu,Edo,ALC-041,4,Cloud Computing,2024-09-01,complete,certified,South-South
+3MTT-F00643,Segun,Eze,Akwa Ibom,ALC-027,4,DevOps,2024-09-01,complete,certified,South-South
+3MTT-F00086,Chiamaka,Lawal,Gombe,ALC-026,4,Data Analysis,2024-09-01,incomplete,not certified,North-East
+3MTT-F00285,Kayode,Effiong,Abia,ALC-002,4,Cybersecurity,2024-09-01,complete,certified,North-Central
+3MTT-F00619,Grace,Abubakar,Anambra,ALC-028,4,UI/UX Design,2024-09-01,complete,certified,South-East
+3MTT-F00764,Segun,Adeyemi,Ondo,ALC-042,4,UI/UX Design,2024-09-02,complete,certified,South-West
+3MTT-F00474,Grace,Abubakar,Jigawa,ALC-014,4,UI/UX Design,2024-09-02,complete,not certified,North-West
+3MTT-F00462,Chinwe,Okonkwo,Osun,ALC-046,4,AI/ML,2024-09-02,complete,certified,South-West
+3MTT-F00305,Segun,Ibrahim,Rivers,ALC-007,4,Data Analysis,2024-09-02,complete,certified,North-Central
+3MTT-F00087,Umar,Nwachukwu,Kaduna,ALC-022,4,UI/UX Design,2024-09-03,complete,certified,North-West
+3MTT-F00325,Ifeanyi,Adegoke,Lagos,ALC-016,4,Data Analysis,2024-09-03,incomplete,not certified,South-West
+3MTT-F00700,Grace,Anyanwu,Anambra,ALC-028,4,Product Management,2024-09-03,complete,certified,South-East
+3MTT-F01006,Nneka,Anyanwu,Kaduna,ALC-022,3,Product Management,2024-09-03,complete,certified,North-West
+3MTT-F00922,Grace,Adegoke,Delta,ALC-023,3,UI/UX Design,2024-09-03,complete,certified,South-South
+3MTT-F00077,Maryam,Ojo,Cross River,ALC-027,4,UI/UX Design,2024-09-03,complete,certified,South-South
+3MTT-F00304,Dele,Sule,Ebonyi,ALC-038,4,AI/ML,2024-09-04,incomplete,not certified,South-East
+3MTT-F00239,Segun,Musa,Adamawa,ALC-043,3,Data Analysis,2024-09-05,incomplete,not certified,North-East
+3MTT-F00005,Grace,Abubakar,Jigawa,ALC-031,4,Cloud Computing,2024-09-05,complete,certified,North-West
+3MTT-F00293,Kayode,Anyanwu,Ekiti,ALC-039,3,Product Management,2024-09-05,complete,certified,North-West
+3MTT-F00489,Chukwuemeka,Adeyemi,Nasarawa,ALC-051,3,Software Development,2024-09-06,incomplete,not certified,North-Central
+3MTT-F00725,Temitope,Nwachukwu,Ondo,ALC-020,3,UI/UX Design,2024-09-06,incomplete,not certified,South-West
+3MTT-F00151,Ifeanyi,Adegoke,Kogi,ALC-UNKNOWN,3,Product Management,2024-09-06,incomplete,not certified,
+3MTT-F00278,Chinwe,Lawal,Niger,ALC-034,4,Software Development,2024-09-06,complete,not certified,North-Central
+3MTT-F00999,Babatunde,Effiong,Ogun,ALC-038,4,Product Management,2024-09-07,complete,certified,South-East
+3MTT-F00297,Babatunde,Badmus,Ondo,ALC-008,3,Cloud Computing,2024-09-07,incomplete,not certified,South-West
+3MTT-F01011,Temitope,Nwachukwu,Oyo,ALC-049,4,DevOps,2024-09-07,complete,certified,South-West
+3MTT-F00365,Nneka,Hassan,Jigawa,ALC-031,4,Cloud Computing,2024-09-08,complete,certified,North-West
+3MTT-F00741,Fatima,Eze,Ondo,ALC-042,3,Cloud Computing,2024-09-08,incomplete,not certified,South-West
+3MTT-F00757,Adaeze,Nwachukwu,Akwa Ibom,ALC-012,4,Software Development,2024-09-08,incomplete,not certified,North-Central
+3MTT-F00429,Chiamaka,Bello,Enugu,ALC-048,4,Software Development,2024-09-08,incomplete,not certified,South-East
+3MTT-F00157,Yusuf,Adegoke,Taraba,ALC-050,4,DevOps,2024-09-08,incomplete,not certified,North-East
+3MTT-F01116,Chiamaka,Bello,Jigawa,ALC-031,3,AI/ML,2024-09-08,incomplete,not certified,North-West
+3MTT-F00685,Obinna,Musa,Nasarawa,ALC-051,3,Cloud Computing,2024-09-08,complete,certified,North-Central
+3MTT-F00262,Zainab,Effiong,Zamfara,ALC-046,3,Product Management,2024-09-08,incomplete,not certified,South-West
+3MTT-F00302,Ekene,Afolabi,Delta,ALC-023,4,Cybersecurity,2024-09-08,incomplete,not certified,South-South
+3MTT-F00698,Bola,Adeyemi,Niger,ALC-013,4,UI/UX Design,2024-09-09,complete,certified,North-Central
+3MTT-F00760,Halima,Garba,Adamawa,ALC-043,4,Cybersecurity,2024-09-09,incomplete,not certified,North-East
+3MTT-F00596,Chukwuemeka,Garba,Ekiti,ALC-054,3,Product Management,2024-09-10,incomplete,not certified,North-West
+3MTT-F00678,Nnamdi,Afolabi,Edo,ALC-041,3,DevOps,2024-09-10,complete,certified,South-South
+3MTT-F01038,Chinwe,Effiong,Lagos,ALC-UNKNOWN,4,Cybersecurity,2024-09-10,complete,certified,
+3MTT-F00567,Zainab,Aliyu,Ebonyi,ALC-038,4,DevOps,2024-09-10,incomplete,not certified,South-East
+3MTT-F00060,Bola,Abubakar,Akwa Ibom,ALC-047,3,Data Analysis,2024-09-10,incomplete,not certified,North-West
+3MTT-F00081,Chukwuemeka,Aliyu,Plateau,ALC-007,4,DevOps,2024-09-11,complete,certified,North-Central
+3MTT-F01043,Adaeze,Okonkwo,Nasarawa,ALC-051,3,AI/ML,2024-09-11,complete,not certified,North-Central
+3MTT-F00398,Oluwafemi,Nwachukwu,Zamfara,ALC-051,4,Product Management,2024-09-12,complete,certified,North-Central
+3MTT-F00895,Chinwe,Eze,Borno,ALC-030,4,Cloud Computing,2024-09-12,complete,certified,North-East
+3MTT-F00341,Yusuf,Adeyemi,Ondo,ALC-042,3,Data Analysis,2024-09-12,incomplete,not certified,South-West
+3MTT-F00767,Nnamdi,Okonkwo,Sokoto,ALC-054,3,Cloud Computing,2024-09-13,complete,certified,North-West
+3MTT-F00581,Ifeanyi,Musa,Plateau,ALC-036,3,Data Analysis,2024-09-13,complete,not certified,North-Central
+3MTT-F00554,Nneka,Effiong,Yobe,ALC-019,3,DevOps,2024-09-13,incomplete,not certified,North-East
+3MTT-F00967,Chukwuemeka,Anyanwu,Katsina,ALC-039,3,UI/UX Design,2024-09-13,complete,certified,North-West
+3MTT-F00821,Nneka,Ike,Adamawa,ALC-043,4,Data Analysis,2024-09-14,incomplete,not certified,North-East
+3MTT-F00584,Suleiman,Garba,Kano,ALC-004,3,Software Development,2024-09-14,incomplete,not certified,North-West
+3MTT-F00234,Temitope,Anyanwu,Abuja,ALC-025,4,Cloud Computing,2024-09-14,complete,certified,North-Central
+3MTT-F00692,Halima,Effiong,Ondo,ALC-008,3,Cybersecurity,2024-09-14,complete,certified,South-West
+3MTT-F00161,Obinna,Ibrahim,Oyo,ALC-049,4,AI/ML,2024-09-14,complete,not certified,South-West
+3MTT-F00737,Babatunde,Nwosu,Niger,ALC-034,4,Cloud Computing,2024-09-14,incomplete,not certified,North-Central
+3MTT-F00521,Bola,Bello,Borno,ALC-030,3,Software Development,2024-09-14,incomplete,not certified,North-East
+3MTT-F00058,Yusuf,Olawale,Benue,ALC-017,4,Product Management,2024-09-15,complete,certified,North-Central
+3MTT-F00026,Nneka,Bello,Abia,ALC-004,3,Software Development,2024-09-15,complete,not certified,North-West
+3MTT-F00333,Grace,Ibrahim,Adamawa,ALC-043,3,Software Development,2024-09-15,complete,certified,North-East
+3MTT-F00855,Suleiman,Aliyu,Bayelsa,ALC-021,4,Cybersecurity,2024-09-15,incomplete,not certified,South-South
+3MTT-F00295,Ifeanyi,Lawal,Zamfara,ALC-021,3,DevOps,2024-09-16,complete,not certified,South-South
+3MTT-F00299,Segun,Effiong,Imo,ALC-035,4,Data Analysis,2024-09-16,complete,certified,South-East
+3MTT-F00266,Segun,Chukwu,Jigawa,ALC-014,3,UI/UX Design,2024-09-16,incomplete,not certified,North-West
+3MTT-F00515,Amina,Okonkwo,Rivers,ALC-044,4,UI/UX Design,2024-09-16,complete,certified,South-East
+3MTT-F00502,Temitope,Sule,Enugu,ALC-048,4,Software Development,2024-09-16,complete,certified,South-East
+3MTT-F00229,Grace,Aliyu,Jigawa,ALC-031,4,Cloud Computing,2024-09-16,complete,not certified,North-West
+3MTT-F00391,Ekene,Nwachukwu,Ebonyi,ALC-038,3,UI/UX Design,2024-09-16,incomplete,not certified,South-East
+3MTT-F01067,Chinwe,Okafor,Gombe,ALC-026,3,UI/UX Design,2024-09-17,incomplete,not certified,North-East
+3MTT-F00932,Ifeanyi,Olawale,Nasarawa,ALC-051,4,DevOps,2024-09-17,complete,certified,North-Central
+3MTT-F00582,Chukwuemeka,Hassan,Osun,ALC-018,4,UI/UX Design,2024-09-17,complete,certified,South-West
+3MTT-F01030,Ekene,Badmus,Taraba,ALC-041,4,Product Management,2024-09-17,complete,certified,South-South
+3MTT-F01083,Babatunde,Ojo,Gombe,ALC-026,4,UI/UX Design,2024-09-18,complete,certified,North-East
+3MTT-F00508,Chukwuemeka,Okafor,Taraba,ALC-037,3,DevOps,2024-09-18,incomplete,not certified,South-East
+3MTT-F00292,Halima,Aliyu,Kebbi,ALC-024,4,UI/UX Design,2024-09-18,incomplete,not certified,North-West
+3MTT-F01018,Oluwafemi,Abubakar,Abia,ALC-043,4,UI/UX Design,2024-09-19,incomplete,not certified,North-East
+3MTT-F00769,Zainab,Badmus,Bayelsa,ALC-021,4,DevOps,2024-09-19,complete,certified,South-South
+3MTT-F00927,Suleiman,Afolabi,Gombe,ALC-026,3,Software Development,2024-09-19,incomplete,not certified,North-East
+3MTT-F00013,Yusuf,Abubakar,Kano,ALC-004,3,Cybersecurity,2024-09-19,incomplete,not certified,North-West
+3MTT-F01127,Bola,Nwosu,Rivers,ALC-019,4,Cybersecurity,2024-09-19,complete,certified,North-East
+3MTT-F00314,Zainab,Ike,Kwara,ALC-023,3,DevOps,2024-09-19,complete,not certified,South-South
+3MTT-F01079,Temitope,Hassan,Kaduna,ALC-005,3,Cybersecurity,2024-09-20,incomplete,not certified,North-West
+3MTT-F00147,Chinwe,Olawale,Cross River,ALC-010,4,Data Analysis,2024-09-20,complete,certified,South-South
+3MTT-F00614,Zainab,Chukwu,Rivers,ALC-036,3,UI/UX Design,2024-09-20,complete,certified,North-Central
+3MTT-F00059,Adaeze,Olawale,Ondo,ALC-042,3,AI/ML,2024-09-20,complete,certified,South-West
+3MTT-F00828,Ifeanyi,Sule,Abia,ALC-037,3,AI/ML,2024-09-21,complete,certified,South-East
+3MTT-F01088,Dele,Okafor,Adamawa,ALC-001,3,Data Analysis,2024-09-21,incomplete,not certified,North-East
+3MTT-F00271,Nnamdi,Ojo,Osun,ALC-046,4,DevOps,2024-09-21,incomplete,not certified,South-West
+3MTT-F00124,Umar,Bello,Borno,ALC-030,3,AI/ML,2024-09-21,incomplete,not certified,North-East
+3MTT-F00869,Suleiman,Abubakar,Cross River,ALC-010,4,DevOps,2024-09-22,incomplete,not certified,South-South
+3MTT-F00082,Chukwuemeka,Nwosu,Adamawa,ALC-001,4,Cybersecurity,2024-09-22,complete,certified,North-East
+3MTT-F00903,Chiamaka,Lawal,Taraba,ALC-013,3,UI/UX Design,2024-09-22,complete,certified,North-Central
+3MTT-F00780,Chukwuemeka,Hassan,Lagos,ALC-016,3,AI/ML,2024-09-22,complete,certified,South-West
+3MTT-F00851,Ifeanyi,Afolabi,Kogi,ALC-040,3,Product Management,2024-09-22,complete,certified,North-Central
+3MTT-F00649,Chiamaka,Badmus,Ekiti,ALC-035,3,Product Management,2024-09-23,complete,certified,South-East
+3MTT-F00789,Oluwafemi,Chukwu,Benue,ALC-002,4,AI/ML,2024-09-23,incomplete,not certified,North-Central
+3MTT-F00380,Chukwuemeka,Adeyemi,Oyo,ALC-049,3,Data Analysis,2024-09-23,complete,certified,South-West
+3MTT-F00657,Bola,Okafor,Bauchi,ALC-006,4,Cloud Computing,2024-09-23,incomplete,not certified,North-East
+3MTT-F00339,Nnamdi,Chukwu,Kwara,ALC-051,3,Software Development,2024-09-24,complete,certified,North-Central
+3MTT-F00456,Oluwafemi,Yakubu,Abuja,ALC-025,4,DevOps,2024-09-24,incomplete,not certified,North-Central
+3MTT-F00859,Babatunde,Aliyu,Abuja,ALC-025,4,Cloud Computing,2024-09-24,complete,certified,North-Central
+3MTT-F00818,Ifeanyi,Abubakar,Edo,ALC-041,4,Data Analysis,2024-09-25,complete,certified,South-South
+3MTT-F00208,Zainab,Lawal,Jigawa,ALC-031,3,Cloud Computing,2024-09-25,incomplete,not certified,North-West
+3MTT-F00149,Nneka,Nwosu,Abia,ALC-008,3,Product Management,2024-09-25,incomplete,not certified,South-West
+3MTT-F00459,Adaeze,Ibrahim,Delta,ALC-UNKNOWN,3,Product Management,2024-09-25,incomplete,not certified,
+3MTT-F00110,Suleiman,Okafor,Niger,ALC-045,3,DevOps,2024-09-25,incomplete,not certified,North-Central
+3MTT-F01066,Temitope,Hassan,Borno,ALC-030,3,DevOps,2024-09-25,incomplete,not certified,North-East
+3MTT-F00834,Grace,Badmus,Benue,ALC-017,3,Cloud Computing,2024-09-26,complete,not certified,North-Central
+3MTT-F00466,Zainab,Effiong,Delta,ALC-023,3,DevOps,2024-09-26,complete,certified,South-South
+3MTT-F00696,Chinwe,Afolabi,Taraba,ALC-028,3,Cloud Computing,2024-09-26,incomplete,not certified,South-East
+3MTT-F00926,Segun,Sule,Osun,ALC-046,4,Product Management,2024-09-26,complete,not certified,South-West
+3MTT-F00626,Umar,Olawale,Ebonyi,ALC-038,3,Data Analysis,2024-09-27,complete,certified,South-East
+3MTT-F01124,Grace,Olawale,Abia,ALC-049,4,Cybersecurity,2024-09-27,incomplete,not certified,South-West
+3MTT-F00642,Segun,Abubakar,Edo,ALC-041,3,Cybersecurity,2024-09-27,complete,certified,South-South
+3MTT-F00150,Halima,Adeyemi,Ondo,ALC-042,3,Product Management,2024-09-27,complete,certified,South-West
+3MTT-F00668,Chiamaka,Ojo,Lagos,ALC-016,4,Cloud Computing,2024-09-27,complete,certified,South-West
+3MTT-F00219,Segun,Anyanwu,Borno,ALC-030,4,DevOps,2024-09-27,complete,certified,North-East
+3MTT-F00276,Fatima,Effiong,Ondo,ALC-020,3,Cybersecurity,2024-09-28,incomplete,not certified,South-West
+3MTT-F01009,Obinna,Aliyu,Oyo,ALC-049,3,UI/UX Design,2024-09-28,incomplete,not certified,South-West
+3MTT-F00354,Chinwe,Ike,Oyo,ALC-049,3,Data Analysis,2024-09-28,complete,certified,South-West
+3MTT-F00796,Zainab,Chukwu,Plateau,ALC-007,3,Software Development,2024-09-28,complete,certified,North-Central
+3MTT-F00937,Maryam,Hassan,Oyo,ALC-049,4,Cybersecurity,2024-09-28,incomplete,not certified,South-West
+3MTT-F01129,Babatunde,Adegoke,Yobe,ALC-050,3,Cybersecurity,2024-09-28,incomplete,not certified,North-East
+3MTT-F01015,Ifeanyi,Effiong,Enugu,ALC-048,3,DevOps,2024-09-29,incomplete,not certified,South-East
+3MTT-F00482,Kayode,Adeyemi,Taraba,ALC-034,3,AI/ML,2024-09-29,complete,certified,North-Central
+3MTT-F00361,Oluwafemi,Adegoke,Edo,ALC-041,3,Data Analysis,2024-09-29,complete,not certified,South-South
+3MTT-F00804,Ekene,Yakubu,Ebonyi,ALC-037,3,Data Analysis,2024-09-29,complete,certified,South-East
+3MTT-F00832,Amina,Hassan,Ebonyi,ALC-037,4,AI/ML,2024-09-29,incomplete,not certified,South-East
+3MTT-F00852,Grace,Abubakar,Plateau,ALC-UNKNOWN,4,AI/ML,2024-09-30,complete,certified,
+3MTT-F01016,Nnamdi,Afolabi,Gombe,ALC-UNKNOWN,3,DevOps,2024-09-30,complete,certified,
+3MTT-F00908,Babatunde,Garba,Plateau,ALC-036,3,Cybersecurity,2024-09-30,complete,certified,North-Central
+3MTT-F00221,Zainab,Sule,Zamfara,ALC-038,4,Cloud Computing,2024-09-30,incomplete,not certified,South-East
+3MTT-F00042,Zainab,Anyanwu,Nasarawa,ALC-051,4,Data Analysis,2024-10-01,complete,not certified,North-Central
+3MTT-F00944,Kayode,Ibrahim,Kano,ALC-004,4,Cloud Computing,2024-10-01,incomplete,not certified,North-West
+3MTT-F00312,Ekene,Olawale,Taraba,ALC-024,3,Product Management,2024-10-02,complete,certified,North-West
+3MTT-F00344,Suleiman,Abubakar,Niger,ALC-UNKNOWN,3,AI/ML,2024-10-02,incomplete,not certified,
+3MTT-F00475,Segun,Lawal,Osun,ALC-046,3,Data Analysis,2024-10-02,incomplete,not certified,South-West
+3MTT-F00689,Temitope,Bello,Ebonyi,ALC-037,3,AI/ML,2024-10-02,complete,certified,South-East
+3MTT-F00950,Zainab,Adegoke,Imo,ALC-044,3,Software Development,2024-10-02,complete,certified,South-East
+3MTT-F00519,Ifeanyi,Badmus,Bayelsa,ALC-021,3,Software Development,2024-10-02,complete,certified,South-South
+3MTT-F00419,Yusuf,Hassan,Jigawa,ALC-031,4,Data Analysis,2024-10-03,complete,certified,North-West
+3MTT-F00883,Chinwe,Nwachukwu,Cross River,ALC-010,3,Cybersecurity,2024-10-03,complete,certified,South-South
+3MTT-F00881,Kayode,Sule,Ebonyi,ALC-037,4,Cloud Computing,2024-10-03,complete,certified,South-East
+3MTT-F00759,Fatima,Garba,Niger,ALC-034,3,Data Analysis,2024-10-04,incomplete,not certified,North-Central
+3MTT-F01063,Nnamdi,Anyanwu,Enugu,ALC-048,4,Data Analysis,2024-10-04,complete,certified,South-East
+3MTT-F00220,Ifeanyi,Musa,Ogun,ALC-030,3,Product Management,2024-10-04,complete,not certified,North-East
+3MTT-F00413,Oluwafemi,Lawal,Ogun,ALC-024,3,Product Management,2024-10-04,incomplete,not certified,North-West
+3MTT-F00542,Umar,Okafor,Abia,ALC-027,4,Cloud Computing,2024-10-05,complete,certified,South-South
+3MTT-F00640,Chukwuemeka,Eze,Kogi,ALC-UNKNOWN,4,Cloud Computing,2024-10-05,incomplete,not certified,
+3MTT-F00203,Yusuf,Abubakar,Nasarawa,ALC-051,4,Cybersecurity,2024-10-05,complete,not certified,North-Central
+3MTT-F00972,Maryam,Okonkwo,Anambra,ALC-028,4,Software Development,2024-10-05,complete,certified,South-East
+3MTT-F00669,Grace,Bello,Abia,ALC-010,3,DevOps,2024-10-05,complete,certified,South-South
+3MTT-F00517,Bola,Adegoke,Gombe,ALC-026,3,Data Analysis,2024-10-05,incomplete,not certified,North-East
+3MTT-F00795,Amina,Anyanwu,Borno,ALC-030,3,Cybersecurity,2024-10-06,complete,certified,North-East
+3MTT-F00562,Amina,Musa,Kebbi,ALC-024,4,Cybersecurity,2024-10-07,incomplete,not certified,North-West
+3MTT-F00442,Suleiman,Effiong,Zamfara,ALC-027,3,Software Development,2024-10-07,complete,certified,South-South
+3MTT-F01034,Amina,Nwachukwu,Abia,ALC-042,3,Cloud Computing,2024-10-07,incomplete,not certified,South-West
+3MTT-F00712,Nneka,Anyanwu,Edo,ALC-041,3,Data Analysis,2024-10-07,complete,certified,South-South
+3MTT-F00639,Chukwuemeka,Okafor,Akwa Ibom,ALC-040,3,Product Management,2024-10-07,complete,certified,North-Central
+3MTT-F00885,Zainab,Adeyemi,Bauchi,ALC-006,3,Data Analysis,2024-10-08,complete,certified,North-East
+3MTT-F00349,Ekene,Nwachukwu,Anambra,ALC-032,4,Software Development,2024-10-09,complete,certified,South-East
+3MTT-F00592,Yusuf,Abubakar,Nasarawa,ALC-051,3,Cybersecurity,2024-10-09,incomplete,not certified,North-Central
+3MTT-F00784,Oluwafemi,Adegoke,Jigawa,ALC-031,4,Product Management,2024-10-09,incomplete,not certified,North-West
+3MTT-F00645,Grace,Ike,Delta,ALC-UNKNOWN,3,Cybersecurity,2024-10-09,incomplete,not certified,
+3MTT-F00548,Chiamaka,Abubakar,Kaduna,ALC-015,3,Data Analysis,2024-10-10,incomplete,not certified,North-West
+3MTT-F00381,Bola,Eze,Kaduna,ALC-UNKNOWN,3,Cybersecurity,2024-10-10,complete,certified,
+3MTT-F00182,Dele,Abubakar,Ogun,ALC-024,3,Data Analysis,2024-10-10,complete,certified,North-West
+3MTT-F00940,Maryam,Ibrahim,Taraba,ALC-027,3,Cybersecurity,2024-10-11,complete,certified,South-South
+3MTT-F00008,Adaeze,Hassan,Imo,ALC-044,4,Software Development,2024-10-11,complete,certified,South-East
+3MTT-F01136,Umar,Eze,Anambra,ALC-032,4,Product Management,2024-10-11,complete,certified,South-East
+3MTT-F00597,Temitope,Adeyemi,Enugu,ALC-048,4,UI/UX Design,2024-10-11,complete,certified,South-East
+3MTT-F00109,Nneka,Musa,Cross River,ALC-010,3,Cybersecurity,2024-10-12,complete,certified,South-South
+3MTT-F00710,Chukwuemeka,Ibrahim,Delta,ALC-023,4,AI/ML,2024-10-12,incomplete,not certified,South-South
+3MTT-F01101,Oluwafemi,Anyanwu,Nasarawa,ALC-051,3,Software Development,2024-10-13,complete,certified,North-Central
+3MTT-F00275,Dele,Ojo,Ekiti,ALC-002,3,Cloud Computing,2024-10-13,complete,certified,North-Central
+3MTT-F00227,Yusuf,Ojo,Abia,ALC-012,4,Cloud Computing,2024-10-13,complete,certified,North-Central
+3MTT-F00254,Obinna,Garba,Zamfara,ALC-030,4,Cybersecurity,2024-10-13,complete,certified,North-East
+3MTT-F01105,Kayode,Sule,Imo,ALC-035,4,Cybersecurity,2024-10-13,complete,not certified,South-East
+3MTT-F01095,Segun,Anyanwu,Zamfara,ALC-003,4,AI/ML,2024-10-14,complete,certified,North-West
+3MTT-F01020,Nneka,Adeyemi,Taraba,ALC-019,3,Data Analysis,2024-10-14,incomplete,not certified,North-East
+3MTT-F00845,Ifeanyi,Abubakar,Katsina,ALC-039,4,Product Management,2024-10-14,complete,not certified,North-West
+3MTT-F00576,Temitope,Aliyu,Benue,ALC-002,3,Cybersecurity,2024-10-14,complete,not certified,North-Central
+3MTT-F00180,Chinwe,Afolabi,Nasarawa,ALC-051,4,Cybersecurity,2024-10-15,complete,certified,North-Central
+3MTT-F00586,Suleiman,Sule,Kwara,ALC-023,3,UI/UX Design,2024-10-15,incomplete,not certified,South-South
+3MTT-F01099,Umar,Nwachukwu,Katsina,ALC-039,3,UI/UX Design,2024-10-15,complete,certified,North-West
+3MTT-F01149,Yusuf,Adegoke,Taraba,ALC-017,3,Software Development,2024-10-16,complete,not certified,North-Central
+3MTT-F00948,Zainab,Badmus,Enugu,ALC-048,3,Data Analysis,2024-10-16,incomplete,not certified,South-East
+3MTT-F00030,Halima,Adeyemi,Oyo,ALC-049,3,UI/UX Design,2024-10-16,complete,certified,South-West
+3MTT-F00539,Ekene,Aliyu,Anambra,ALC-028,4,DevOps,2024-10-16,incomplete,not certified,South-East
+3MTT-F00826,Amina,Adegoke,Anambra,ALC-028,3,Product Management,2024-10-16,complete,certified,South-East
+3MTT-F00253,Chinwe,Okonkwo,Ebonyi,ALC-037,3,Data Analysis,2024-10-16,complete,certified,South-East
+3MTT-F00123,Fatima,Ojo,Adamawa,ALC-001,3,Product Management,2024-10-16,complete,certified,North-East
+3MTT-F00744,Chiamaka,Ike,Kogi,ALC-011,3,Software Development,2024-10-16,complete,certified,North-Central
+3MTT-F00699,Temitope,Chukwu,Rivers,ALC-041,3,Data Analysis,2024-10-17,incomplete,not certified,South-South
+3MTT-F00774,Zainab,Lawal,Borno,ALC-030,4,Software Development,2024-10-17,incomplete,not certified,North-East
+3MTT-F00728,Obinna,Okonkwo,Ekiti,ALC-025,3,Data Analysis,2024-10-17,complete,certified,North-Central
+3MTT-F00723,Segun,Yakubu,Cross River,ALC-027,3,DevOps,2024-10-17,complete,certified,South-South
+3MTT-F00522,Yusuf,Hassan,Niger,ALC-045,3,Product Management,2024-10-17,incomplete,not certified,North-Central
+3MTT-F00011,Dele,Okonkwo,Borno,ALC-030,3,AI/ML,2024-10-17,incomplete,not certified,North-East
+3MTT-F00095,Dele,Garba,Akwa Ibom,ALC-033,3,DevOps,2024-10-18,complete,certified,North-Central
+3MTT-F00505,Zainab,Sule,Jigawa,ALC-014,4,Cybersecurity,2024-10-19,incomplete,not certified,North-West
+3MTT-F00917,Obinna,Afolabi,Akwa Ibom,ALC-029,3,AI/ML,2024-10-19,complete,certified,North-West
+3MTT-F01094,Fatima,Okonkwo,Adamawa,ALC-043,4,UI/UX Design,2024-10-19,complete,not certified,North-East
+3MTT-F00375,Halima,Adegoke,Imo,ALC-044,4,AI/ML,2024-10-19,incomplete,not certified,South-East
+3MTT-F00036,Zainab,Nwosu,Adamawa,ALC-001,3,Product Management,2024-10-20,complete,certified,North-East
+3MTT-F01138,Chiamaka,Yakubu,Delta,ALC-023,3,UI/UX Design,2024-10-20,complete,certified,South-South
+3MTT-F00185,Yusuf,Hassan,Bauchi,ALC-006,4,DevOps,2024-10-20,complete,certified,North-East
+3MTT-F00878,Kayode,Adeyemi,Kwara,ALC-048,3,Product Management,2024-10-21,incomplete,not certified,South-East
+3MTT-F00134,Kayode,Chukwu,Nasarawa,ALC-051,4,Cloud Computing,2024-10-21,incomplete,not certified,North-Central
+3MTT-F00469,Segun,Ojo,Bauchi,ALC-006,4,UI/UX Design,2024-10-21,incomplete,not certified,North-East
+3MTT-F00840,Grace,Sule,Benue,ALC-012,4,Data Analysis,2024-10-22,complete,not certified,North-Central
+3MTT-F00602,Umar,Garba,Oyo,ALC-049,4,DevOps,2024-10-22,incomplete,not certified,South-West
+3MTT-F00094,Umar,Anyanwu,Ekiti,ALC-019,4,Software Development,2024-10-22,complete,certified,North-East
+3MTT-F00201,Oluwafemi,Lawal,Enugu,ALC-048,4,Product Management,2024-10-23,complete,not certified,South-East
+3MTT-F00960,Fatima,Hassan,Oyo,ALC-049,3,Cybersecurity,2024-10-23,complete,certified,South-West
+3MTT-F00695,Kayode,Garba,Taraba,ALC-030,4,UI/UX Design,2024-10-23,incomplete,not certified,North-East
+3MTT-F00080,Nnamdi,Yakubu,Kebbi,ALC-003,3,DevOps,2024-10-24,complete,not certified,North-West
+3MTT-F00401,Dele,Effiong,Ebonyi,ALC-038,3,DevOps,2024-10-24,complete,certified,South-East
+3MTT-F00160,Grace,Bello,Niger,ALC-045,4,DevOps,2024-10-24,incomplete,not certified,North-Central
+3MTT-F00735,Ekene,Bello,Bayelsa,ALC-021,4,Cybersecurity,2024-10-24,complete,certified,South-South
+3MTT-F00945,Amina,Nwachukwu,Kwara,ALC-021,4,UI/UX Design,2024-10-24,complete,certified,South-South
+3MTT-F00313,Nneka,Anyanwu,Taraba,ALC-032,3,DevOps,2024-10-25,complete,certified,South-East
+3MTT-F00981,Babatunde,Nwachukwu,Nasarawa,ALC-051,3,AI/ML,2024-10-25,complete,certified,North-Central
+3MTT-F00003,Yusuf,Yakubu,Edo,ALC-041,4,Data Analysis,2024-10-26,complete,certified,South-South
+3MTT-F00490,Umar,Effiong,Kwara,ALC-012,4,Product Management,2024-10-26,complete,not certified,North-Central
+3MTT-F00164,Grace,Hassan,Nasarawa,ALC-051,3,Cybersecurity,2024-10-26,complete,certified,North-Central
+3MTT-F01000,Suleiman,Lawal,Jigawa,ALC-UNKNOWN,4,Data Analysis,2024-10-26,complete,certified,
+3MTT-F00427,Suleiman,Ojo,Lagos,ALC-016,3,Cloud Computing,2024-10-26,complete,certified,South-West
+3MTT-F00038,Amina,Chukwu,Kano,ALC-004,4,Cybersecurity,2024-10-27,incomplete,not certified,North-West
+3MTT-F00962,Adaeze,Effiong,Yobe,ALC-019,4,Data Analysis,2024-10-27,incomplete,not certified,North-East
+3MTT-F00690,Halima,Ibrahim,Osun,ALC-018,3,Cloud Computing,2024-10-27,incomplete,not certified,South-West
+3MTT-F00970,Kayode,Ibrahim,Nasarawa,ALC-051,3,Product Management,2024-10-27,complete,not certified,North-Central
+3MTT-F00422,Temitope,Hassan,Plateau,ALC-007,4,Software Development,2024-10-28,complete,certified,North-Central
+3MTT-F00197,Segun,Badmus,Ekiti,ALC-034,4,UI/UX Design,2024-10-28,complete,certified,North-Central
+3MTT-F01071,Amina,Okafor,Anambra,ALC-032,4,UI/UX Design,2024-10-28,incomplete,not certified,South-East
+3MTT-F00568,Zainab,Lawal,Bauchi,ALC-006,4,AI/ML,2024-10-29,complete,certified,North-East
+3MTT-F00065,Obinna,Afolabi,Rivers,ALC-043,3,Cloud Computing,2024-10-29,incomplete,not certified,North-East
+3MTT-F00207,Oluwafemi,Bello,Borno,ALC-030,4,Cloud Computing,2024-10-29,complete,not certified,North-East
+3MTT-F00835,Chukwuemeka,Ike,Ondo,ALC-042,4,UI/UX Design,2024-10-30,incomplete,not certified,South-West
+3MTT-F00143,Grace,Nwachukwu,Abuja,ALC-025,3,Data Analysis,2024-10-30,complete,certified,North-Central
+3MTT-F00663,Ifeanyi,Abubakar,Bayelsa,ALC-021,4,Data Analysis,2024-10-30,incomplete,not certified,South-South
